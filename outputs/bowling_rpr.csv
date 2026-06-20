@@ -1,0 +1,758 @@
+Name,Price in $,Role,TeamName,auction_year,Price in rs,Nationality,BasePrices in Rs,Winning Bid in Rs,Capped/UnCapped,price_rs,price_crore,match_key,role_clean,balls_bowled,runs_conceded,wickets,economy,wickets_per_match,rpr_bowling
+Ashish Nehra,,Bowler,Chennai Super Kings,2014,"2,00,00,000",,,,,20000000,2.0,a_nehra,bowler,1974,2537,121,7.71,7.36,3.68
+Mohit Sharma,,Bowler,Chennai Super Kings,2014,"2,00,00,000",,,,,20000000,2.0,m_sharma,bowler,2308,3278,147,8.52,7.64,3.82
+Ishwar Chandra Pandey,,Bowler,Chennai Super Kings,2014,"1,50,00,000",,,,,15000000,1.5,i_pandey,bowler,469,609,19,7.79,4.86,3.24
+Ben Hilfenhaus,,Bowler,Chennai Super Kings,2014,"1,00,00,000",,,,,10000000,1.0,b_hilfenhaus,bowler,390,497,23,7.65,7.08,7.08
+John Hastings,,All-Rounder,Chennai Super Kings,2014,"50,00,000",,,,,5000000,0.5,j_hastings,allrounder,61,66,3,6.49,5.9,11.8
+Samuel Badree,,Bowler,Chennai Super Kings,2014,"30,00,000",,,,,3000000,0.3,s_badree,bowler,263,329,11,7.51,5.02,16.733333
+Matt Henry,,Bowler,Chennai Super Kings,2014,"30,00,000",,,,,3000000,0.3,m_henry,bowler,105,183,3,10.46,3.43,11.433333
+Mithun Manhas,,All-Rounder,Chennai Super Kings,2014,"30,00,000",,,,,3000000,0.3,m_manhas,allrounder,42,42,0,6.0,0.0,0.0
+Vijay Shankar,,All-Rounder,Chennai Super Kings,2014,"10,00,000",,,,,1000000,0.1,v_shankar,allrounder,258,344,12,8.0,5.58,55.8
+Ronit More,,Bowler,Chennai Super Kings,2014,"10,00,000",,,,,1000000,0.1,r_more,bowler,37,63,1,10.22,3.24,32.4
+Pawan Negi,,Bowler,Chennai Super Kings,2014,"10,00,000",,,,,1000000,0.1,p_negi,bowler,733,954,38,7.81,6.22,62.2
+Mohammad Shami,,Bowler,Delhi Daredevils,2014,"4,25,00,000",,,,,42500000,4.25,m_shami,bowler,2521,3486,144,8.3,6.85,1.611765
+Nathan Coulter-Nile,,Bowler,Delhi Daredevils,2014,"4,25,00,000",,,,,42500000,4.25,n_coulter-nile,bowler,892,1125,52,7.57,7.0,1.647059
+Jaydev Unadkat,,Bowler,Delhi Daredevils,2014,"2,80,00,000",,,,,28000000,2.8,j_unadkat,bowler,2194,3219,109,8.8,5.96,2.128571
+Rahul Sharma,,Bowler,Delhi Daredevils,2014,"1,90,00,000",,,,,19000000,1.9,r_sharma,bowler,935,1100,42,7.06,5.39,2.836842
+Rahul Sharma,,Bowler,Delhi Daredevils,2014,"1,90,00,000",,,,,19000000,1.9,r_sharma,bowler,349,462,16,7.94,5.5,2.894737
+Laxmi Ratan Shukla,,All-Rounder,Delhi Daredevils,2014,"1,50,00,000",,,,,15000000,1.5,l_shukla,allrounder,326,458,17,8.43,6.26,4.173333
+James Neesham,,All-Rounder,Delhi Daredevils,2014,"1,00,00,000",,,,,10000000,1.0,j_neesham,allrounder,222,342,8,9.24,4.32,4.32
+Wayne Parnell,,Bowler,Delhi Daredevils,2014,"1,00,00,000",,,,,10000000,1.0,w_parnell,bowler,758,968,40,7.66,6.33,6.33
+Shahbaz Nadeem,,Bowler,Delhi Daredevils,2014,"85,00,000",,,,,8500000,0.85,s_nadeem,bowler,1444,1800,54,7.48,4.49,5.282353
+Siddarth Kaul,,Bowler,Delhi Daredevils,2014,"45,00,000",,,,,4500000,0.45,s_kaul,bowler,1238,1772,63,8.59,6.11,13.577778
+Rahul Shukla,,Bowler,Delhi Daredevils,2014,"40,00,000",,,,,4000000,0.4,r_shukla,bowler,130,217,7,10.02,6.46,16.15
+Jayant Yadav,,All-Rounder,Delhi Daredevils,2014,"10,00,000",,,,,1000000,0.1,j_yadav,allrounder,398,447,9,6.74,2.71,27.1
+Mitchell Johnson,,All-Rounder,Kings XI Punjab,2014,"6,50,00,000",,,,,65000000,6.5,m_johnson,allrounder,1301,1740,66,8.02,6.09,0.936923
+Glenn Maxwell,,All-Rounder,Kings XI Punjab,2014,"6,00,00,000",,,,,60000000,6.0,g_maxwell,allrounder,965,1311,41,8.15,5.1,0.85
+Rishi Dhawan,,All-Rounder,Kings XI Punjab,2014,"3,00,00,000",,,,,30000000,3.0,r_dhawan,allrounder,693,922,27,7.98,4.68,1.56
+Beuran Hendricks,,Bowler,Kings XI Punjab,2014,"1,80,00,000",,,,,18000000,1.8,b_hendricks,bowler,157,239,11,9.13,8.41,4.672222
+Lakshmipathy Balaji,,Bowler,Kings XI Punjab,2014,"1,80,00,000",,,,,18000000,1.8,l_balaji,bowler,1574,2083,85,7.94,6.48,3.6
+Murali Kartik,,Bowler,Kings XI Punjab,2014,"1,00,00,000",,,,,10000000,1.0,m_kartik,bowler,1182,1418,39,7.2,3.96,3.96
+Sandeep Sharma,,Bowler,Kings XI Punjab,2014,"85,00,000",,,,,8500000,0.85,s_sharma,bowler,2925,3758,153,7.71,6.28,7.388235
+Sandeep Sharma,,Bowler,Kings XI Punjab,2014,"85,00,000",,,,,8500000,0.85,s_sharma,bowler,114,165,4,8.68,4.21,4.952941
+Sandeep Sharma,,Bowler,Kings XI Punjab,2014,"85,00,000",,,,,8500000,0.85,s_sharma,bowler,264,381,11,8.66,5.0,5.882353
+Mandeep Hardev Singh,,All-Rounder,Kings XI Punjab,2014,"80,00,000",,,,,8000000,0.8,m_singh,allrounder,12,26,0,13.0,0.0,0.0
+Akshar Rajesh Patel,,All-Rounder,Kings XI Punjab,2014,"75,00,000",,,,,7500000,0.75,a_patel,allrounder,3152,3824,131,7.28,4.99,6.653333
+Parvinder Awana,,Bowler,Kings XI Punjab,2014,"65,00,000",,,,,6500000,0.65,p_awana,bowler,774,1046,43,8.11,6.67,10.261538
+Shardul Narendra Thakur,,Bowler,Kings XI Punjab,2014,"20,00,000",,,,,2000000,0.2,s_thakur,bowler,1979,2908,100,8.82,6.06,30.3
+Anureet Singh,,Bowler,Kings XI Punjab,2014,"20,00,000",,,,,2000000,0.2,a_singh,bowler,486,639,31,7.89,7.65,38.25
+Anureet Singh,,Bowler,Kings XI Punjab,2014,"20,00,000",,,,,2000000,0.2,a_singh,bowler,141,227,5,9.66,4.26,21.3
+Anureet Singh,,Bowler,Kings XI Punjab,2014,"20,00,000",,,,,2000000,0.2,a_singh,bowler,430,636,21,8.87,5.86,29.3
+Anureet Singh,,Bowler,Kings XI Punjab,2014,"20,00,000",,,,,2000000,0.2,a_singh,bowler,1453,2097,84,8.66,6.94,34.7
+Shivam Sharma,,Bowler,Kings XI Punjab,2014,"10,00,000",,,,,1000000,0.1,s_sharma,bowler,2925,3758,153,7.71,6.28,62.8
+Shivam Sharma,,Bowler,Kings XI Punjab,2014,"10,00,000",,,,,1000000,0.1,s_sharma,bowler,114,165,4,8.68,4.21,42.1
+Shivam Sharma,,Bowler,Kings XI Punjab,2014,"10,00,000",,,,,1000000,0.1,s_sharma,bowler,264,381,11,8.66,5.0,50.0
+Karanveer Singh,,All-Rounder,Kings XI Punjab,2014,"10,00,000",,,,,1000000,0.1,k_singh,allrounder,213,323,14,9.1,7.89,78.9
+Jacques Kallis,,All-Rounder,Kolkata Knight Riders,2014,"5,50,00,000",,,,,55000000,5.5,j_kallis,allrounder,1799,2348,74,7.83,4.94,0.898182
+Piyush Chawla,,Bowler,Kolkata Knight Riders,2014,"4,25,00,000",,,,,42500000,4.25,p_chawla,bowler,3895,5179,201,7.98,6.19,1.456471
+Yusuf Pathan,,All-Rounder,Kolkata Knight Riders,2014,"3,25,00,000",,,,,32500000,3.25,y_pathan,allrounder,1184,1443,46,7.31,4.66,1.433846
+Shakib Al Hasan,,All-Rounder,Kolkata Knight Riders,2014,"2,80,00,000",,,,,28000000,2.8,s_hasan,allrounder,1515,1864,71,7.38,5.62,2.007143
+Morne Morkel,,Bowler,Kolkata Knight Riders,2014,"2,80,00,000",,,,,28000000,2.8,m_morkel,bowler,1699,2136,88,7.54,6.22,2.221429
+Ranganath Vinay Kumar,,Bowler,Kolkata Knight Riders,2014,"2,80,00,000",,,,,28000000,2.8,r_kumar,bowler,2186,3041,127,8.35,6.97,2.489286
+Umesh Yadav,,Bowler,Kolkata Knight Riders,2014,"2,60,00,000",,,,,26000000,2.6,u_yadav,bowler,3190,4442,163,8.35,6.13,2.357692
+Patrick Cummins,,Bowler,Kolkata Knight Riders,2014,"1,00,00,000",,,,,10000000,1.0,p_cummins,bowler,1370,1976,66,8.65,5.78,5.78
+Ryan Ten Doeschate,,All-Rounder,Kolkata Knight Riders,2014,"1,00,00,000",,,,,10000000,1.0,r_doeschate,allrounder,83,94,3,6.8,4.34,4.34
+Andre Russell,,All-Rounder,Kolkata Knight Riders,2014,"60,00,000",,,,,6000000,0.6,a_russell,allrounder,1771,2691,125,9.12,8.47,14.116667
+Veer Pratap Singh,,Bowler,Kolkata Knight Riders,2014,"40,00,000",,,,,4000000,0.4,v_singh,bowler,211,300,12,8.53,6.82,17.05
+Veer Pratap Singh,,Bowler,Kolkata Knight Riders,2014,"40,00,000",,,,,4000000,0.4,v_singh,bowler,371,549,16,8.88,5.18,12.95
+Kuldeep Singh Yadav,,Bowler,Kolkata Knight Riders,2014,"40,00,000",,,,,4000000,0.4,k_yadav,bowler,54,85,2,9.44,4.44,11.1
+Kuldeep Singh Yadav,,Bowler,Kolkata Knight Riders,2014,"40,00,000",,,,,4000000,0.4,k_yadav,bowler,1786,2413,90,8.11,6.05,15.125
+Corey Anderson,,All-Rounder,Mumbai Indians,2014,"4,50,00,000",,,,,45000000,4.5,c_anderson,allrounder,315,525,14,10.0,5.33,1.184444
+Pragyan Ojha,,Bowler,Mumbai Indians,2014,"3,25,00,000",,,,,32500000,3.25,p_ojha,bowler,1945,2399,99,7.4,6.11,1.88
+Zaheer Khan,,Bowler,Mumbai Indians,2014,"2,60,00,000",,,,,26000000,2.6,z_khan,bowler,2276,2860,119,7.54,6.27,2.411538
+Jasprit Bumrah,,Bowler,Mumbai Indians,2014,"1,20,00,000",,,,,12000000,1.2,j_bumrah,bowler,3185,3840,182,7.23,6.86,5.716667
+Jalaj Saxena,,All-Rounder,Mumbai Indians,2014,"90,00,000",,,,,9000000,0.9,j_saxena,allrounder,18,27,0,9.0,0.0,0.0
+Josh Hazlewood,,Bowler,Mumbai Indians,2014,"50,00,000",,,,,5000000,0.5,j_hazlewood,bowler,622,830,36,8.01,6.95,13.9
+Marchant De Lange,,Bowler,Mumbai Indians,2014,"30,00,000",,,,,3000000,0.3,m_lange,bowler,116,171,6,8.84,6.21,20.7
+Krismar Santokie,,Bowler,Mumbai Indians,2014,"30,00,000",,,,,3000000,0.3,k_santokie,bowler,51,91,3,10.71,7.06,23.533333
+Pawan Suyal,,Bowler,Mumbai Indians,2014,"10,00,000",,,,,1000000,0.1,p_suyal,bowler,107,154,2,8.64,2.24,22.4
+Shreyas Gopal,,Bowler,Mumbai Indians,2014,"10,00,000",,,,,1000000,0.1,s_gopal,bowler,1000,1358,53,8.15,6.36,63.6
+Steven Smith,,All-Rounder,Rajasthan Royals,2014,"4,00,00,000",,,,,40000000,4.0,s_smith,allrounder,2,5,0,15.0,0.0,0.0
+Rajat Bhatia,,All-Rounder,Rajasthan Royals,2014,"1,70,00,000",,,,,17000000,1.7,r_bhatia,allrounder,1661,2059,82,7.44,5.92,3.482353
+Tim Southee,,Bowler,Rajasthan Royals,2014,"1,20,00,000",,,,,12000000,1.2,t_southee,bowler,1262,1774,57,8.43,5.42,4.516667
+Dhawal Kulkarni,,Bowler,Rajasthan Royals,2014,"1,10,00,000",,,,,11000000,1.1,d_kulkarni,bowler,1876,2513,91,8.04,5.82,5.290909
+Abhishek Nayar,,All-Rounder,Rajasthan Royals,2014,"1,00,00,000",,,,,10000000,1.0,a_nayar,allrounder,239,323,9,8.11,4.52,4.52
+Kane Richardson,,Bowler,Rajasthan Royals,2014,"1,00,00,000",,,,,10000000,1.0,k_richardson,bowler,345,479,21,8.33,7.3,7.3
+Ben Cutting,,Bowler,Rajasthan Royals,2014,"80,00,000",,,,,8000000,0.8,b_cutting,bowler,288,430,12,8.96,5.0,6.25
+Deepak Hooda,,Bowler,Rajasthan Royals,2014,"40,00,000",,,,,4000000,0.4,d_hooda,bowler,384,535,10,8.36,3.12,7.8
+Kevon Cooper,,All-Rounder,Rajasthan Royals,2014,"30,00,000",,,,,3000000,0.3,k_cooper,allrounder,600,789,36,7.89,7.2,24.0
+Vikramjeet Malik,,Bowler,Rajasthan Royals,2014,"20,00,000",,,,,2000000,0.2,v_malik,bowler,212,268,6,7.58,3.4,17.0
+Ankit Nagendra Sharma,,Bowler,Rajasthan Royals,2014,"10,00,000",,,,,1000000,0.1,a_sharma,bowler,278,396,11,8.55,4.75,47.5
+Ankit Nagendra Sharma,,Bowler,Rajasthan Royals,2014,"10,00,000",,,,,1000000,0.1,a_sharma,bowler,375,453,12,7.25,3.84,38.4
+Rahul Tewatia,,All-Rounder,Rajasthan Royals,2014,"10,00,000",,,,,1000000,0.1,r_tewatia,allrounder,866,1117,36,7.74,4.99,49.9
+Amit Mishra,,Bowler,Rajasthan Royals,2014,"10,00,000",,,,,1000000,0.1,a_mishra,bowler,3444,4193,183,7.3,6.38,63.8
+Pravin Tambe,,Bowler,Rajasthan Royals,2014,"10,00,000",,,,,1000000,0.1,p_tambe,bowler,674,866,28,7.71,4.99,49.9
+Yuvraj Singh,,All-Rounder, Royal Challengers Bengaluru,2014,"14,00,00,000",,,,,140000000,14.0,y_singh,allrounder,74,125,4,10.14,6.49,0.463571
+Yuvraj Singh,,All-Rounder, Royal Challengers Bengaluru,2014,"14,00,00,000",,,,,140000000,14.0,y_singh,allrounder,882,1091,39,7.42,5.31,0.379286
+Mitchell Starc,,Bowler, Royal Challengers Bengaluru,2014,"5,00,00,000",,,,,50000000,5.0,m_starc,bowler,879,1175,59,8.02,8.05,1.61
+Varun Aaron,,Bowler, Royal Challengers Bengaluru,2014,"2,00,00,000",,,,,20000000,2.0,v_aaron,bowler,1065,1527,46,8.6,5.18,2.59
+Ashok Dinda,,Bowler, Royal Challengers Bengaluru,2014,"1,50,00,000",,,,,15000000,1.5,a_dinda,bowler,1589,2103,82,7.94,6.19,4.126667
+Muttiah Muralitharan,,Bowler, Royal Challengers Bengaluru,2014,"1,00,00,000",,,,,10000000,1.0,m_muralitharan,bowler,1581,1765,67,6.7,5.09,5.09
+Ravi Rampaul,,Bowler, Royal Challengers Bengaluru,2014,"90,00,000",,,,,9000000,0.9,r_rampaul,bowler,278,319,17,6.88,7.34,8.155556
+Harshal Patel,,Bowler, Royal Challengers Bengaluru,2014,"40,00,000",,,,,4000000,0.4,h_patel,bowler,2284,3215,151,8.45,7.93,19.825
+Abu Nechim Ahmed,,Bowler, Royal Challengers Bengaluru,2014,"30,00,000",,,,,3000000,0.3,a_ahmed,bowler,362,515,15,8.54,4.97,16.566667
+Sachin Rana,,Bowler, Royal Challengers Bengaluru,2014,"20,00,000",,,,,2000000,0.2,s_rana,bowler,16,18,0,6.75,0.0,0.0
+Shadab Jakati,,Bowler, Royal Challengers Bengaluru,2014,"20,00,000",,,,,2000000,0.2,s_jakati,bowler,1101,1474,50,8.03,5.45,27.25
+Sandeep Warrier,,Bowler, Royal Challengers Bengaluru,2014,"10,00,000",,,,,1000000,0.1,s_warrier,bowler,176,257,8,8.76,5.45,54.5
+Yuzvendra Singh Chahal,,Bowler, Royal Challengers Bengaluru,2014,"10,00,000",,,,,1000000,0.1,y_chahal,bowler,3628,4681,213,7.74,7.05,70.5
+Amit Mishra,,Bowler, Sunrisers Hyderabad,2014,"4,75,00,000",,,,,47500000,4.75,a_mishra,bowler,3444,4193,183,7.3,6.38,1.343158
+Bhuvneshwar Kumar,,Bowler, Sunrisers Hyderabad,2014,"4,25,00,000",,,,,42500000,4.25,b_kumar,bowler,4060,5051,195,7.46,5.76,1.355294
+Karn Sharma,,Bowler, Sunrisers Hyderabad,2014,"3,75,00,000",,,,,37500000,3.75,k_sharma,bowler,1520,2130,82,8.41,6.47,1.725333
+Darren Sammy,,All-Rounder, Sunrisers Hyderabad,2014,"3,50,00,000",,,,,35000000,3.5,d_sammy,allrounder,244,354,14,8.7,6.89,1.968571
+Ishant Sharma,,Bowler, Sunrisers Hyderabad,2014,"2,60,00,000",,,,,26000000,2.6,i_sharma,bowler,2429,3255,96,8.04,4.74,1.823077
+Irfan Pathan,,All-Rounder, Sunrisers Hyderabad,2014,"2,40,00,000",,,,,24000000,2.4,i_pathan,allrounder,2113,2711,99,7.7,5.62,2.341667
+Moises Henriques,,All-Rounder, Sunrisers Hyderabad,2014,"1,00,00,000",,,,,10000000,1.0,m_henriques,allrounder,979,1302,46,7.98,5.64,5.64
+Parveez Rasool,,All-Rounder, Sunrisers Hyderabad,2014,"95,00,000",,,,,9500000,0.95,p_rasool,allrounder,200,273,4,8.19,2.4,2.526316
+Jason Holder,,Bowler, Sunrisers Hyderabad,2014,"75,00,000",,,,,7500000,0.75,j_holder,bowler,1049,1489,59,8.52,6.75,9.0
+Prasanth Parameswaran,,Bowler, Sunrisers Hyderabad,2014,"30,00,000",,,,,3000000,0.3,p_parameswaran,bowler,159,226,9,8.53,6.79,22.633333
+Ashish Reddy,,Bowler, Sunrisers Hyderabad,2014,"20,00,000",,,,,2000000,0.2,a_reddy,bowler,270,400,19,8.89,8.44,42.2
+Irfan Pathan,,All-Rounder,Chennai Super Kings,2015,"1,50,00,000",,,,,15000000,1.5,i_pathan,allrounder,2113,2711,99,7.7,5.62,3.746667
+Rahul Sharma,,Bowler,Chennai Super Kings,2015,"30,00,000",,,,,3000000,0.3,r_sharma,bowler,935,1100,42,7.06,5.39,17.966667
+Rahul Sharma,,Bowler,Chennai Super Kings,2015,"30,00,000",,,,,3000000,0.3,r_sharma,bowler,349,462,16,7.94,5.5,18.333333
+Kyle Abbott,,Bowler,Chennai Super Kings,2015,"30,00,000",,,,,3000000,0.3,k_abbott,bowler,102,182,2,10.71,2.35,7.833333
+Andrew Tye,,Bowler,Chennai Super Kings,2015,"20,00,000",,,,,2000000,0.2,a_tye,bowler,714,1005,48,8.45,8.07,40.35
+Pratyush Singh,,All-Rounder,Chennai Super Kings,2015,"10,00,000",,,,,1000000,0.1,p_singh,allrounder,311,472,11,9.11,4.24,42.4
+Angelo Mathews,,All-Rounder,Delhi Daredevils,2015,"7,50,00,000",,,,,75000000,7.5,a_mathews,allrounder,807,1095,28,8.14,4.16,0.554667
+Zaheer Khan,,Bowler,Delhi Daredevils,2015,"4,00,00,000",,,,,40000000,4.0,z_khan,bowler,2276,2860,119,7.54,6.27,1.5675
+Amit Mishra,,Bowler,Delhi Daredevils,2015,"3,50,00,000",,,,,35000000,3.5,a_mishra,bowler,3444,4193,183,7.3,6.38,1.822857
+Gurinder Sandhu,,Bowler,Delhi Daredevils,2015,"1,70,00,000",,,,,17000000,1.7,g_sandhu,bowler,48,86,1,10.75,2.5,1.470588
+Jaydev Unadkat,,Bowler,Delhi Daredevils,2015,"1,10,00,000",,,,,11000000,1.1,j_unadkat,bowler,2194,3219,109,8.8,5.96,5.418182
+Marcus Stoinis,,All-Rounder,Delhi Daredevils,2015,"25,00,000",,,,,2500000,0.25,m_stoinis,allrounder,831,1300,45,9.39,6.5,26.0
+K.C. Cariappa,,Bowler,Kolkata Knight Riders,2015,"2,40,00,000",,,,,24000000,2.4,k_cariappa,bowler,224,349,8,9.35,4.29,1.7875
+James Neesham,,All-Rounder,Kolkata Knight Riders,2015,"50,00,000",,,,,5000000,0.5,j_neesham,allrounder,222,342,8,9.24,4.32,8.64
+Sumit Narwal,,All-Rounder,Kolkata Knight Riders,2015,"10,00,000",,,,,1000000,0.1,s_narwal,allrounder,113,203,6,10.78,6.37,63.7
+Pragyan Ojha,,Bowler,Mumbai Indians,2015,"50,00,000",,,,,5000000,0.5,p_ojha,bowler,1945,2399,99,7.4,6.11,12.22
+Abhimanyu Mithun,,Bowler,Mumbai Indians,2015,"30,00,000",,,,,3000000,0.3,a_mithun,bowler,312,477,8,9.17,3.08,10.266667
+Mitchell McClenaghan,,Bowler,Mumbai Indians,2015,"30,00,000",,,,,3000000,0.3,m_mcclenaghan,bowler,1346,1839,75,8.2,6.69,22.3
+Hardik Pandya,,All-Rounder,Mumbai Indians,2015,"10,00,000",,,,,1000000,0.1,h_pandya,allrounder,1485,2196,70,8.87,5.66,56.6
+Nitish Rana,,All-Rounder,Mumbai Indians,2015,"10,00,000",,,,,1000000,0.1,n_rana,allrounder,185,253,10,8.21,6.49,64.9
+Christopher Morris,,All-Rounder,Rajasthan Royals,2015,"1,40,00,000",,,,,14000000,1.4,c_morris,allrounder,1801,2377,107,7.92,7.13,5.092857
+Juan Theron,,Bowler,Rajasthan Royals,2015,"30,00,000",,,,,3000000,0.3,j_theron,bowler,235,311,13,7.94,6.64,22.133333
+Dinesh Salunkhe,,All-Rounder,Rajasthan Royals,2015,"10,00,000",,,,,1000000,0.1,d_salunkhe,allrounder,51,80,1,9.41,2.35,23.5
+Sagar Trivedi,,All-Rounder,Rajasthan Royals,2015,"10,00,000",,,,,1000000,0.1,s_trivedi,allrounder,1557,1944,73,7.49,5.63,56.3
+Pardeep Sahu,,All-Rounder,Rajasthan Royals,2015,"10,00,000",,,,,1000000,0.1,p_sahu,allrounder,107,152,3,8.52,3.36,33.6
+Darren Sammy,,All-Rounder, Royal Challengers Bengaluru,2015,"2,80,00,000",,,,,28000000,2.8,d_sammy,allrounder,244,354,14,8.7,6.89,2.460714
+David Wiese,,All-Rounder, Royal Challengers Bengaluru,2015,"2,80,00,000",,,,,28000000,2.8,d_wiese,allrounder,307,447,17,8.74,6.64,2.371429
+Sean Abbott,,Bowler, Royal Challengers Bengaluru,2015,"1,00,00,000",,,,,10000000,1.0,s_abbott,bowler,59,104,1,10.58,2.03,2.03
+Adam Milne,,Bowler, Royal Challengers Bengaluru,2015,"70,00,000",,,,,7000000,0.7,a_milne,bowler,217,339,9,9.37,4.98,7.114286
+Jalaj Saxena,,All-Rounder, Royal Challengers Bengaluru,2015,"10,00,000",,,,,1000000,0.1,j_saxena,allrounder,18,27,0,9.0,0.0,0.0
+Trent Boult,,Bowler, Sunrisers Hyderabad,2015,"3,80,00,000",,,,,38000000,3.8,t_boult,bowler,2428,3286,128,8.12,6.33,1.665789
+Praveen Kumar,,Bowler, Sunrisers Hyderabad,2015,"2,20,00,000",,,,,22000000,2.2,p_kumar,bowler,2637,3342,102,7.6,4.64,2.109091
+Praveen Kumar,,Bowler, Sunrisers Hyderabad,2015,"2,20,00,000",,,,,22000000,2.2,p_kumar,bowler,31,42,1,8.13,3.87,1.759091
+Ravi Bopara,,All-Rounder, Sunrisers Hyderabad,2015,"1,00,00,000",,,,,10000000,1.0,r_bopara,allrounder,213,301,13,8.48,7.32,7.32
+Kane Williamson,,All-Rounder, Sunrisers Hyderabad,2015,"60,00,000",,,,,6000000,0.6,k_williamson,allrounder,18,31,0,10.33,0.0,0.0
+Laxmi Ratan Shukla,,All-Rounder, Sunrisers Hyderabad,2015,"30,00,000",,,,,3000000,0.3,l_shukla,allrounder,326,458,17,8.43,6.26,20.866667
+Siddarth Kaul,,Bowler, Sunrisers Hyderabad,2015,"10,00,000",,,,,1000000,0.1,s_kaul,bowler,1238,1772,63,8.59,6.11,61.1
+Pawan Negi,,All-Rounder,Delhi Daredevils,2016,"8,50,00,000",,,,,85000000,8.5,p_negi,allrounder,733,954,38,7.81,6.22,0.731765
+Christopher Morris,,All-Rounder,Delhi Daredevils,2016,"7,00,00,000",,,,,70000000,7.0,c_morris,allrounder,1801,2377,107,7.92,7.13,1.018571
+Carlos Brathwaite,,All-Rounder,Delhi Daredevils,2016,"4,20,00,000",,,,,42000000,4.2,c_brathwaite,allrounder,266,384,16,8.66,7.22,1.719048
+Pratyush Singh,,All-Rounder,Delhi Daredevils,2016,"10,00,000",,,,,1000000,0.1,p_singh,allrounder,311,472,11,9.11,4.24,42.4
+Mahipal Lomror,,All-Rounder,Delhi Daredevils,2016,"10,00,000",,,,,1000000,0.1,m_lomror,allrounder,94,127,2,8.11,2.55,25.5
+Syed Khaleel Ahmed,,All-Rounder,Delhi Daredevils,2016,"10,00,000",,,,,1000000,0.1,s_ahmed,allrounder,549,850,21,9.29,4.59,45.9
+Syed Khaleel Ahmed,,All-Rounder,Delhi Daredevils,2016,"10,00,000",,,,,1000000,0.1,s_ahmed,allrounder,103,154,5,8.97,5.83,58.3
+Pawan Suyal,,Bowler,Delhi Daredevils,2016,"10,00,000",,,,,1000000,0.1,p_suyal,bowler,107,154,2,8.64,2.24,22.4
+Praveen Kumar,,Bowler,Gujarat Lions,2016,"3,50,00,000",,,,,35000000,3.5,p_kumar,bowler,2637,3342,102,7.6,4.64,1.325714
+Praveen Kumar,,Bowler,Gujarat Lions,2016,"3,50,00,000",,,,,35000000,3.5,p_kumar,bowler,31,42,1,8.13,3.87,1.105714
+Dale Steyn,,Bowler,Gujarat Lions,2016,"2,30,00,000",,,,,23000000,2.3,d_steyn,bowler,2282,2583,105,6.79,5.52,2.4
+Dwayne Smith,,All-Rounder,Gujarat Lions,2016,"2,30,00,000",,,,,23000000,2.3,d_smith,allrounder,557,825,27,8.89,5.82,2.530435
+Dhawal Kulkarni,,Bowler,Gujarat Lions,2016,"2,00,00,000",,,,,20000000,2.0,d_kulkarni,bowler,1876,2513,91,8.04,5.82,2.91
+Andrew Tye,,All-Rounder,Gujarat Lions,2016,"50,00,000",,,,,5000000,0.5,a_tye,allrounder,714,1005,48,8.45,8.07,16.14
+Shadab Jakati,,All-Rounder,Gujarat Lions,2016,"20,00,000",,,,,2000000,0.2,s_jakati,allrounder,1101,1474,50,8.03,5.45,27.25
+Pravin Tambe,,Bowler,Gujarat Lions,2016,"20,00,000",,,,,2000000,0.2,p_tambe,bowler,674,866,28,7.71,4.99,24.95
+Pradeep Sangwan,,All-Rounder,Gujarat Lions,2016,"20,00,000",,,,,2000000,0.2,p_sangwan,allrounder,905,1267,44,8.4,5.83,29.15
+Amit Mishra,,Bowler,Gujarat Lions,2016,"10,00,000",,,,,1000000,0.1,a_mishra,bowler,3444,4193,183,7.3,6.38,63.8
+Shivil Kaushik,,Bowler,Gujarat Lions,2016,"10,00,000",,,,,1000000,0.1,s_kaushik,bowler,210,304,6,8.69,3.43,34.3
+Sarabjit Ladda,,Bowler,Gujarat Lions,2016,"10,00,000",,,,,1000000,0.1,s_ladda,bowler,141,225,5,9.57,4.26,42.6
+Mohit Sharma,,Bowler,Kings XI Punjab,2016,"6,50,00,000",,,,,65000000,6.5,m_sharma,bowler,2308,3278,147,8.52,7.64,1.175385
+Kyle Abbott,,Bowler,Kings XI Punjab,2016,"2,10,00,000",,,,,21000000,2.1,k_abbott,bowler,102,182,2,10.71,2.35,1.119048
+K.C. Cariappa,,Bowler,Kings XI Punjab,2016,"80,00,000",,,,,8000000,0.8,k_cariappa,bowler,224,349,8,9.35,4.29,5.3625
+Marcus Stoinis,,All-Rounder,Kings XI Punjab,2016,"55,00,000",,,,,5500000,0.55,m_stoinis,allrounder,831,1300,45,9.39,6.5,11.818182
+Pardeep Sahu,,All-Rounder,Kings XI Punjab,2016,"10,00,000",,,,,1000000,0.1,p_sahu,allrounder,107,152,3,8.52,3.36,33.6
+Swapnil Singh,,All-Rounder,Kings XI Punjab,2016,"10,00,000",,,,,1000000,0.1,s_singh,allrounder,19,25,1,7.89,6.32,63.2
+Swapnil Singh,,All-Rounder,Kings XI Punjab,2016,"10,00,000",,,,,1000000,0.1,s_singh,allrounder,193,265,10,8.24,6.22,62.2
+Swapnil Singh,,All-Rounder,Kings XI Punjab,2016,"10,00,000",,,,,1000000,0.1,s_singh,allrounder,165,241,7,8.76,5.09,50.9
+Jaydev Unadkat,,Bowler,Kolkata Knight Riders,2016,"1,60,00,000",,,,,16000000,1.6,j_unadkat,bowler,2194,3219,109,8.8,5.96,3.725
+Ankit Singh Rajpoot,,Bowler,Kolkata Knight Riders,2016,"1,50,00,000",,,,,15000000,1.5,a_rajpoot,bowler,567,844,24,8.93,5.08,3.386667
+John Hastings,,Bowler,Kolkata Knight Riders,2016,"1,30,00,000",,,,,13000000,1.3,j_hastings,bowler,61,66,3,6.49,5.9,4.538462
+Jason Holder,,All-Rounder,Kolkata Knight Riders,2016,"70,00,000",,,,,7000000,0.7,j_holder,allrounder,1049,1489,59,8.52,6.75,9.642857
+Colin Munro,,All-Rounder,Kolkata Knight Riders,2016,"30,00,000",,,,,3000000,0.3,c_munro,allrounder,12,15,0,7.5,0.0,0.0
+Rajagopal Sathish,,All-Rounder,Kolkata Knight Riders,2016,"20,00,000",,,,,2000000,0.2,r_sathish,allrounder,144,233,6,9.71,5.0,25.0
+Manan Ajay Sharma,,All-Rounder,Kolkata Knight Riders,2016,"10,00,000",,,,,1000000,0.1,m_sharma,allrounder,2308,3278,147,8.52,7.64,76.4
+Nathu Singh,,Bowler,Mumbai Indians,2016,"3,20,00,000",,,,,32000000,3.2,n_singh,bowler,25,18,1,4.32,4.8,1.5
+Tim Southee,,Bowler,Mumbai Indians,2016,"2,50,00,000",,,,,25000000,2.5,t_southee,bowler,1262,1774,57,8.43,5.42,2.168
+Krunal Pandya,,All-Rounder,Mumbai Indians,2016,"2,00,00,000",,,,,20000000,2.0,k_pandya,allrounder,2183,2644,80,7.27,4.4,2.2
+Mitchell Marsh,,All-Rounder,Rising Pune Supergiant,2016,"4,80,00,000",,,,,48000000,4.8,m_marsh,allrounder,593,803,37,8.12,7.49,1.560417
+M. Ashwin,,Bowler,Rising Pune Supergiant,2016,"4,50,00,000",,,,,45000000,4.5,m_ashwin,bowler,898,1182,35,7.9,4.68,1.04
+Ishant Sharma,,Bowler,Rising Pune Supergiant,2016,"3,80,00,000",,,,,38000000,3.8,i_sharma,bowler,2429,3255,96,8.04,4.74,1.247368
+Irfan Pathan,,All-Rounder,Rising Pune Supergiant,2016,"1,00,00,000",,,,,10000000,1.0,i_pathan,allrounder,2113,2711,99,7.7,5.62,5.62
+Rajat Bhatia,,All-Rounder,Rising Pune Supergiant,2016,"60,00,000",,,,,6000000,0.6,r_bhatia,allrounder,1661,2059,82,7.44,5.92,9.866667
+Ashok Dinda,,Bowler,Rising Pune Supergiant,2016,"50,00,000",,,,,5000000,0.5,a_dinda,bowler,1589,2103,82,7.94,6.19,12.38
+Scott Boland,,Bowler,Rising Pune Supergiant,2016,"50,00,000",,,,,5000000,0.5,s_boland,bowler,43,56,3,7.81,8.37,16.74
+Rudra Pratap Singh,,Bowler,Rising Pune Supergiant,2016,"30,00,000",,,,,3000000,0.3,r_singh,bowler,1874,2417,100,7.74,6.4,21.333333
+Rudra Pratap Singh,,Bowler,Rising Pune Supergiant,2016,"30,00,000",,,,,3000000,0.3,r_singh,bowler,45,64,6,8.53,16.0,53.333333
+Adam Zampa,,Bowler,Rising Pune Supergiant,2016,"30,00,000",,,,,3000000,0.3,a_zampa,bowler,425,562,30,7.93,8.47,28.233333
+Ishwar Chandra Pandey,,Bowler,Rising Pune Supergiant,2016,"20,00,000",,,,,2000000,0.2,i_pandey,bowler,469,609,19,7.79,4.86,24.3
+Deepak Chahar,,All-Rounder,Rising Pune Supergiant,2016,"10,00,000",,,,,1000000,0.1,d_chahar,allrounder,1746,2243,79,7.71,5.43,54.3
+Jaskaran Singh,,Bowler,Rising Pune Supergiant,2016,"10,00,000",,,,,1000000,0.1,j_singh,bowler,111,174,6,9.41,6.49,64.9
+Ankit Sharma,,All-Rounder,Rising Pune Supergiant,2016,"10,00,000",,,,,1000000,0.1,a_sharma,allrounder,278,396,11,8.55,4.75,47.5
+Ankit Sharma,,All-Rounder,Rising Pune Supergiant,2016,"10,00,000",,,,,1000000,0.1,a_sharma,allrounder,375,453,12,7.25,3.84,38.4
+Shane Watson,,All-Rounder, Royal Challengers Bengaluru,2016,"9,50,00,000",,,,,95000000,9.5,s_watson,allrounder,2137,2742,107,7.7,6.01,0.632632
+Stuart Binny,,All-Rounder, Royal Challengers Bengaluru,2016,"2,00,00,000",,,,,20000000,2.0,s_binny,allrounder,611,763,28,7.49,5.5,2.75
+Kane Richardson,,Bowler, Royal Challengers Bengaluru,2016,"2,00,00,000",,,,,20000000,2.0,k_richardson,bowler,345,479,21,8.33,7.3,3.65
+Samuel Badree,,Bowler, Royal Challengers Bengaluru,2016,"50,00,000",,,,,5000000,0.5,s_badree,bowler,263,329,11,7.51,5.02,10.04
+Praveen Dubey,,All-Rounder, Royal Challengers Bengaluru,2016,"35,00,000",,,,,3500000,0.35,p_dubey,allrounder,67,91,1,8.15,1.79,5.114286
+Vikramjeet Malik,,Bowler, Royal Challengers Bengaluru,2016,"20,00,000",,,,,2000000,0.2,v_malik,bowler,212,268,6,7.58,3.4,17.0
+Yuvraj Singh,,All-Rounder, Sunrisers Hyderabad,2016,"7,00,00,000",,,,,70000000,7.0,y_singh,allrounder,74,125,4,10.14,6.49,0.927143
+Yuvraj Singh,,All-Rounder, Sunrisers Hyderabad,2016,"7,00,00,000",,,,,70000000,7.0,y_singh,allrounder,882,1091,39,7.42,5.31,0.758571
+Ashish Nehra,,Bowler, Sunrisers Hyderabad,2016,"5,50,00,000",,,,,55000000,5.5,a_nehra,bowler,1974,2537,121,7.71,7.36,1.338182
+Deepak Hooda,,All-Rounder, Sunrisers Hyderabad,2016,"4,20,00,000",,,,,42000000,4.2,d_hooda,allrounder,384,535,10,8.36,3.12,0.742857
+Mustafizur Rahman,,Bowler, Sunrisers Hyderabad,2016,"1,40,00,000",,,,,14000000,1.4,m_rahman,bowler,452,598,20,7.94,5.31,3.792857
+Mustafizur Rahman,,Bowler, Sunrisers Hyderabad,2016,"1,40,00,000",,,,,14000000,1.4,m_rahman,bowler,1353,1792,70,7.95,6.21,4.435714
+Barinder Singh Sran,,Bowler, Sunrisers Hyderabad,2016,"1,20,00,000",,,,,12000000,1.2,b_sran,bowler,516,767,20,8.92,4.65,3.875
+Ben Cutting,,All-Rounder, Sunrisers Hyderabad,2016,"50,00,000",,,,,5000000,0.5,b_cutting,allrounder,288,430,12,8.96,5.0,10.0
+Vijay Shankar,,All-Rounder, Sunrisers Hyderabad,2016,"35,00,000",,,,,3500000,0.35,v_shankar,allrounder,258,344,12,8.0,5.58,15.942857
+Abhimanyu Mithun,,Bowler, Sunrisers Hyderabad,2016,"30,00,000",,,,,3000000,0.3,a_mithun,bowler,312,477,8,9.17,3.08,10.266667
+Kagiso Rabada,,Bowler,Delhi Daredevils,2017,"5,00,00,000",,,,,50000000,5.0,k_rabada,bowler,1907,2652,126,8.34,7.93,1.586
+Patrick Cummins,,Bowler,Delhi Daredevils,2017,"4,50,00,000",,,,,45000000,4.5,p_cummins,bowler,1370,1976,66,8.65,5.78,1.284444
+Angelo Mathews,,All-Rounder,Delhi Daredevils,2017,"2,00,00,000",,,,,20000000,2.0,a_mathews,allrounder,807,1095,28,8.14,4.16,2.08
+Corey Anderson,,All-Rounder,Delhi Daredevils,2017,"1,00,00,000",,,,,10000000,1.0,c_anderson,allrounder,315,525,14,10.0,5.33,5.33
+M. Ashwin,,Bowler,Delhi Daredevils,2017,"1,00,00,000",,,,,10000000,1.0,m_ashwin,bowler,898,1182,35,7.9,4.68,4.68
+Navdeep Saini,,Bowler,Delhi Daredevils,2017,"10,00,000",,,,,1000000,0.1,n_saini,bowler,15,35,0,14.0,0.0,0.0
+Navdeep Saini,,Bowler,Delhi Daredevils,2017,"10,00,000",,,,,1000000,0.1,n_saini,bowler,682,968,26,8.52,4.57,45.7
+Shashank Singh,,All-Rounder,Delhi Daredevils,2017,"10,00,000",,,,,1000000,0.1,s_singh,allrounder,19,25,1,7.89,6.32,63.2
+Shashank Singh,,All-Rounder,Delhi Daredevils,2017,"10,00,000",,,,,1000000,0.1,s_singh,allrounder,193,265,10,8.24,6.22,62.2
+Shashank Singh,,All-Rounder,Delhi Daredevils,2017,"10,00,000",,,,,1000000,0.1,s_singh,allrounder,165,241,7,8.76,5.09,50.9
+Basil Thampi,,Bowler,Gujarat Lions,2017,"85,00,000",,,,,8500000,0.85,b_thampi,bowler,539,862,26,9.6,5.79,6.811765
+Manpreet Gony,,Bowler,Gujarat Lions,2017,"60,00,000",,,,,6000000,0.6,m_gony,bowler,925,1317,39,8.54,5.06,8.433333
+Nathu Singh,,Bowler,Gujarat Lions,2017,"50,00,000",,,,,5000000,0.5,n_singh,bowler,25,18,1,4.32,4.8,9.6
+Munaf Patel,,Bowler,Gujarat Lions,2017,"30,00,000",,,,,3000000,0.3,m_patel,bowler,1382,1733,82,7.52,7.12,23.733333
+Tejas Singh Baroka,,Bowler,Gujarat Lions,2017,"10,00,000",,,,,1000000,0.1,t_baroka,bowler,21,33,0,9.43,0.0,0.0
+Pratham Singh,,All-Rounder,Gujarat Lions,2017,"10,00,000",,,,,1000000,0.1,p_singh,allrounder,311,472,11,9.11,4.24,42.4
+T Natarajan,,Bowler,Kings XI Punjab,2017,"3,00,00,000",,,,,30000000,3.0,t_natarajan,bowler,1401,2001,76,8.57,6.51,2.17
+Varun Aaron,,Bowler,Kings XI Punjab,2017,"2,80,00,000",,,,,28000000,2.8,v_aaron,bowler,1065,1527,46,8.6,5.18,1.85
+Matt Henry,,Bowler,Kings XI Punjab,2017,"50,00,000",,,,,5000000,0.5,m_henry,bowler,105,183,3,10.46,3.43,6.86
+Darren Sammy,,All-Rounder,Kings XI Punjab,2017,"30,00,000",,,,,3000000,0.3,d_sammy,allrounder,244,354,14,8.7,6.89,22.966667
+Rahul Tewatia,,All-Rounder,Kings XI Punjab,2017,"25,00,000",,,,,2500000,0.25,r_tewatia,allrounder,866,1117,36,7.74,4.99,19.96
+Trent Boult,,Bowler,Kolkata Knight Riders,2017,"5,00,00,000",,,,,50000000,5.0,t_boult,bowler,2428,3286,128,8.12,6.33,1.266
+Chris Woakes,,All-Rounder,Kolkata Knight Riders,2017,"4,20,00,000",,,,,42000000,4.2,c_woakes,allrounder,463,674,31,8.73,8.03,1.911905
+Nathan Coulter-Nile,,Bowler,Kolkata Knight Riders,2017,"3,50,00,000",,,,,35000000,3.5,n_coulter-nile,bowler,892,1125,52,7.57,7.0,2.0
+Rishi Dhawan,,All-Rounder,Kolkata Knight Riders,2017,"55,00,000",,,,,5500000,0.55,r_dhawan,allrounder,693,922,27,7.98,4.68,8.509091
+Rovman Powell,,All-Rounder,Kolkata Knight Riders,2017,"30,00,000",,,,,3000000,0.3,r_powell,allrounder,21,35,1,10.0,5.71,19.033333
+R. Sanjay Yadav,,All-Rounder,Kolkata Knight Riders,2017,"10,00,000",,,,,1000000,0.1,r_yadav,allrounder,14,23,0,9.86,0.0,0.0
+Karn Sharma,,All-Rounder,Mumbai Indians,2017,"3,20,00,000",,,,,32000000,3.2,k_sharma,allrounder,1520,2130,82,8.41,6.47,2.021875
+Krishnappa Gowtham,,All-Rounder,Mumbai Indians,2017,"2,00,00,000",,,,,20000000,2.0,k_gowtham,allrounder,599,825,22,8.26,4.41,2.205
+Mitchell Johnson,,Bowler,Mumbai Indians,2017,"2,00,00,000",,,,,20000000,2.0,m_johnson,bowler,1301,1740,66,8.02,6.09,3.045
+Kulwant Khejroliya,,Bowler,Mumbai Indians,2017,"10,00,000",,,,,1000000,0.1,k_khejroliya,bowler,129,221,5,10.28,4.65,46.5
+Benjamin Stokes,,All-Rounder,Rising Pune Supergiant,2017,"14,50,00,000",,,,,145000000,14.5,b_stokes,allrounder,723,1023,31,8.49,5.15,0.355172
+Daniel Christian,,All-Rounder,Rising Pune Supergiant,2017,"1,00,00,000",,,,,10000000,1.0,d_christian,allrounder,922,1218,40,7.93,5.21,5.21
+Lockie Ferguson ,,Bowler,Rising Pune Supergiant,2017,"50,00,000",,,,,5000000,0.5,l_ferguson,bowler,1002,1451,57,8.69,6.83,13.66
+Jaydev Unadkat,,Bowler,Rising Pune Supergiant,2017,"30,00,000",,,,,3000000,0.3,j_unadkat,bowler,2194,3219,109,8.8,5.96,19.866667
+Rahul Chahar,,Bowler,Rising Pune Supergiant,2017,"10,00,000",,,,,1000000,0.1,r_chahar,bowler,1697,2165,76,7.65,5.37,53.7
+Saurabh Kumar,,Bowler,Rising Pune Supergiant,2017,"10,00,000",,,,,1000000,0.1,s_kumar,bowler,22,38,0,10.36,0.0,0.0
+Rahul Ajay Tripathi,,All-Rounder,Rising Pune Supergiant,2017,"10,00,000",,,,,1000000,0.1,r_tripathi,allrounder,6,12,0,12.0,0.0,0.0
+Tymal Mills,,Bowler, Royal Challengers Bengaluru,2017,"12,00,00,000",,,,,120000000,12.0,t_mills,bowler,218,349,11,9.61,6.06,0.505
+Aniket Choudhary,,Bowler, Royal Challengers Bengaluru,2017,"2,00,00,000",,,,,20000000,2.0,a_choudhary,bowler,108,144,5,8.0,5.56,2.78
+Pawan Negi,,All-Rounder, Royal Challengers Bengaluru,2017,"1,00,00,000",,,,,10000000,1.0,p_negi,allrounder,733,954,38,7.81,6.22,6.22
+Billy Stanlake,,Bowler, Royal Challengers Bengaluru,2017,"30,00,000",,,,,3000000,0.3,b_stanlake,bowler,150,200,7,8.0,5.6,18.666667
+Praveen Dubey,,All-Rounder, Royal Challengers Bengaluru,2017,"10,00,000",,,,,1000000,0.1,p_dubey,allrounder,67,91,1,8.15,1.79,17.9
+Mohammed Siraj,,Bowler, Sunrisers Hyderabad,2017,"2,60,00,000",,,,,26000000,2.6,m_siraj,bowler,2081,2894,96,8.34,5.54,2.130769
+Chris Jordan,,All-Rounder, Sunrisers Hyderabad,2017,"50,00,000",,,,,5000000,0.5,c_jordan,allrounder,717,1111,36,9.3,6.03,12.06
+Mohammad Nabi,,All-Rounder, Sunrisers Hyderabad,2017,"30,00,000",,,,,3000000,0.3,m_nabi,allrounder,419,527,15,7.55,4.3,14.333333
+Ben Laughlin,,Bowler, Sunrisers Hyderabad,2017,"30,00,000",,,,,3000000,0.3,b_laughlin,bowler,179,284,10,9.52,6.7,22.333333
+Pravin Tambe,,Bowler, Sunrisers Hyderabad,2017,"10,00,000",,,,,1000000,0.1,p_tambe,bowler,674,866,28,7.71,4.99,49.9
+Dwayne Bravo,,All-Rounder, Chennai Super Kings,2018,"6,40,00,000",,,,,64000000,6.4,d_bravo,allrounder,3296,4436,207,8.08,7.54,1.178125
+Karn Sharma,,Bowler, Chennai Super Kings,2018,"5,00,00,000",,,,,50000000,5.0,k_sharma,bowler,1520,2130,82,8.41,6.47,1.294
+Shane Watson,,All-Rounder, Chennai Super Kings,2018,"4,00,00,000",,,,,40000000,4.0,s_watson,allrounder,2137,2742,107,7.7,6.01,1.5025
+Shardul Narendra Thakur,,Bowler, Chennai Super Kings,2018,"2,60,00,000",,,,,26000000,2.6,s_thakur,bowler,1979,2908,100,8.82,6.06,2.330769
+Harbhajan Singh,,Bowler, Chennai Super Kings,2018,"2,00,00,000",,,,,20000000,2.0,h_singh,bowler,3496,4101,161,7.04,5.53,2.765
+Harbhajan Singh,,Bowler, Chennai Super Kings,2018,"2,00,00,000",,,,,20000000,2.0,h_singh,bowler,574,747,31,7.81,6.48,3.24
+Mark Wood,,Bowler, Chennai Super Kings,2018,"1,50,00,000",,,,,15000000,1.5,m_wood,bowler,127,192,11,9.07,10.39,6.926667
+Imran Tahir,,Bowler, Chennai Super Kings,2018,"1,00,00,000",,,,,10000000,1.0,i_tahir,bowler,1340,1729,86,7.74,7.7,7.7
+Deepak Chahar,,All-Rounder, Chennai Super Kings,2018,"80,00,000",,,,,8000000,0.8,d_chahar,allrounder,1746,2243,79,7.71,5.43,6.7875
+Mitchell Santner,,All-Rounder, Chennai Super Kings,2018,"50,00,000",,,,,5000000,0.5,m_santner,allrounder,370,428,16,6.94,5.19,10.38
+Lungisani Ngidi,,Bowler, Chennai Super Kings,2018,"50,00,000",,,,,5000000,0.5,l_ngidi,bowler,342,460,28,8.07,9.82,19.64
+Monu Singh,,Bowler, Chennai Super Kings,2018,"20,00,000",,,,,2000000,0.2,m_singh,bowler,12,26,0,13.0,0.0,0.0
+Kshitiz Sharma,,All-Rounder, Chennai Super Kings,2018,"20,00,000",,,,,2000000,0.2,k_sharma,allrounder,1520,2130,82,8.41,6.47,32.35
+Glenn Maxwell,,All-Rounder,Delhi Daredevils,2018,"9,00,00,000",,,,,90000000,9.0,g_maxwell,allrounder,965,1311,41,8.15,5.1,0.566667
+Kagiso Rabada,,Bowler,Delhi Daredevils,2018,"4,20,00,000",,,,,42000000,4.2,k_rabada,bowler,1907,2652,126,8.34,7.93,1.888095
+Amit Mishra,,Bowler,Delhi Daredevils,2018,"4,00,00,000",,,,,40000000,4.0,a_mishra,bowler,3444,4193,183,7.3,6.38,1.595
+Shahbaz Nadeem,,Bowler,Delhi Daredevils,2018,"3,20,00,000",,,,,32000000,3.2,s_nadeem,bowler,1444,1800,54,7.48,4.49,1.403125
+Vijay Shankar,,All-Rounder,Delhi Daredevils,2018,"3,20,00,000",,,,,32000000,3.2,v_shankar,allrounder,258,344,12,8.0,5.58,1.74375
+Rahul Tewatia,,All-Rounder,Delhi Daredevils,2018,"3,00,00,000",,,,,30000000,3.0,r_tewatia,allrounder,866,1117,36,7.74,4.99,1.663333
+Mohammad Shami,,Bowler,Delhi Daredevils,2018,"3,00,00,000",,,,,30000000,3.0,m_shami,bowler,2521,3486,144,8.3,6.85,2.283333
+Trent Boult,,Bowler,Delhi Daredevils,2018,"2,20,00,000",,,,,22000000,2.2,t_boult,bowler,2428,3286,128,8.12,6.33,2.877273
+Colin Munro,,All-Rounder,Delhi Daredevils,2018,"1,90,00,000",,,,,19000000,1.9,c_munro,allrounder,12,15,0,7.5,0.0,0.0
+Daniel Christian,,All-Rounder,Delhi Daredevils,2018,"1,50,00,000",,,,,15000000,1.5,d_christian,allrounder,922,1218,40,7.93,5.21,3.473333
+Avesh Khan,,Bowler,Delhi Daredevils,2018,"70,00,000",,,,,7000000,0.7,a_khan,bowler,6,13,0,13.0,0.0,0.0
+Avesh Khan,,Bowler,Delhi Daredevils,2018,"70,00,000",,,,,7000000,0.7,a_khan,bowler,153,282,6,11.06,4.71,6.728571
+Avesh Khan,,Bowler,Delhi Daredevils,2018,"70,00,000",,,,,7000000,0.7,a_khan,bowler,1390,2010,81,8.68,6.99,9.985714
+Abhishek Sharma,,All-Rounder,Delhi Daredevils,2018,"55,00,000",,,,,5500000,0.55,a_sharma,allrounder,278,396,11,8.55,4.75,8.636364
+Abhishek Sharma,,All-Rounder,Delhi Daredevils,2018,"55,00,000",,,,,5500000,0.55,a_sharma,allrounder,375,453,12,7.25,3.84,6.981818
+Jayant Yadav,,All-Rounder,Delhi Daredevils,2018,"50,00,000",,,,,5000000,0.5,j_yadav,allrounder,398,447,9,6.74,2.71,5.42
+Harshal Patel,,All-Rounder,Delhi Daredevils,2018,"20,00,000",,,,,2000000,0.2,h_patel,allrounder,2284,3215,151,8.45,7.93,39.65
+Sandeep Lamichhane,,Bowler,Delhi Daredevils,2018,"20,00,000",,,,,2000000,0.2,s_lamichhane,bowler,211,297,14,8.45,7.96,39.8
+Ravichandran Ashwin,,All-Rounder,Kings XI Punjab,2018,"7,60,00,000",,,,,76000000,7.6,r_ashwin,allrounder,4679,5435,198,6.97,5.08,0.668421
+Andrew Tye,,Bowler,Kings XI Punjab,2018,"7,20,00,000",,,,,72000000,7.2,a_tye,bowler,714,1005,48,8.45,8.07,1.120833
+Marcus Stoinis,,All-Rounder,Kings XI Punjab,2018,"6,20,00,000",,,,,62000000,6.2,m_stoinis,allrounder,831,1300,45,9.39,6.5,1.048387
+Ankit Singh Rajpoot,,Bowler,Kings XI Punjab,2018,"3,00,00,000",,,,,30000000,3.0,a_rajpoot,bowler,567,844,24,8.93,5.08,1.693333
+Mohit Sharma,,Bowler,Kings XI Punjab,2018,"2,40,00,000",,,,,24000000,2.4,m_sharma,bowler,2308,3278,147,8.52,7.64,3.183333
+Barinder Singh Sran,,Bowler,Kings XI Punjab,2018,"2,20,00,000",,,,,22000000,2.2,b_sran,bowler,516,767,20,8.92,4.65,2.113636
+Yuvraj Singh,,All-Rounder,Kings XI Punjab,2018,"2,00,00,000",,,,,20000000,2.0,y_singh,allrounder,74,125,4,10.14,6.49,3.245
+Yuvraj Singh,,All-Rounder,Kings XI Punjab,2018,"2,00,00,000",,,,,20000000,2.0,y_singh,allrounder,882,1091,39,7.42,5.31,2.655
+Pardeep Sahu,,Bowler,Kings XI Punjab,2018,"20,00,000",,,,,2000000,0.2,p_sahu,bowler,107,152,3,8.52,3.36,16.8
+Mayank Dagar,,All-Rounder,Kings XI Punjab,2018,"20,00,000",,,,,2000000,0.2,m_dagar,allrounder,138,205,2,8.91,1.74,8.7
+Mitchell Starc,,Bowler, Kolkata Knight Riders,2018,"9,40,00,000",,,,,94000000,9.4,m_starc,bowler,879,1175,59,8.02,8.05,0.856383
+Kuldeep Singh Yadav,,Bowler, Kolkata Knight Riders,2018,"5,80,00,000",,,,,58000000,5.8,k_yadav,bowler,54,85,2,9.44,4.44,0.765517
+Kuldeep Singh Yadav,,Bowler, Kolkata Knight Riders,2018,"5,80,00,000",,,,,58000000,5.8,k_yadav,bowler,1786,2413,90,8.11,6.05,1.043103
+Piyush Chawla,,Bowler, Kolkata Knight Riders,2018,"4,20,00,000",,,,,42000000,4.2,p_chawla,bowler,3895,5179,201,7.98,6.19,1.47381
+Nitish Rana,,All-Rounder, Kolkata Knight Riders,2018,"3,40,00,000",,,,,34000000,3.4,n_rana,allrounder,185,253,10,8.21,6.49,1.908824
+Kamlesh Nagarkoti,,All-Rounder, Kolkata Knight Riders,2018,"3,20,00,000",,,,,32000000,3.2,k_nagarkoti,allrounder,185,287,5,9.31,3.24,1.0125
+Shivam Mavi,,All-Rounder, Kolkata Knight Riders,2018,"3,00,00,000",,,,,30000000,3.0,s_mavi,allrounder,687,958,33,8.37,5.76,1.92
+Mitchell Johnson,,Bowler, Kolkata Knight Riders,2018,"2,00,00,000",,,,,20000000,2.0,m_johnson,bowler,1301,1740,66,8.02,6.09,3.045
+Ranganath Vinay Kumar,,Bowler, Kolkata Knight Riders,2018,"1,00,00,000",,,,,10000000,1.0,r_kumar,bowler,2186,3041,127,8.35,6.97,6.97
+Krunal Pandya,,All-Rounder, Mumbai Indians,2018,"8,80,00,000",,,,,88000000,8.8,k_pandya,allrounder,2183,2644,80,7.27,4.4,0.5
+Kieron Pollard,,All-Rounder, Mumbai Indians,2018,"5,40,00,000",,,,,54000000,5.4,k_pollard,allrounder,1586,2200,81,8.32,6.13,1.135185
+Pat Cummins,,Bowler, Mumbai Indians,2018,"5,40,00,000",,,,,54000000,5.4,p_cummins,bowler,1370,1976,66,8.65,5.78,1.07037
+Ben Cutting,,All-Rounder, Mumbai Indians,2018,"2,20,00,000",,,,,22000000,2.2,b_cutting,allrounder,288,430,12,8.96,5.0,2.272727
+Mustafizur Rahman,,Bowler, Mumbai Indians,2018,"2,20,00,000",,,,,22000000,2.2,m_rahman,bowler,452,598,20,7.94,5.31,2.413636
+Mustafizur Rahman,,Bowler, Mumbai Indians,2018,"2,20,00,000",,,,,22000000,2.2,m_rahman,bowler,1353,1792,70,7.95,6.21,2.822727
+Rahul Chahar,,Bowler, Mumbai Indians,2018,"1,90,00,000",,,,,19000000,1.9,r_chahar,bowler,1697,2165,76,7.65,5.37,2.826316
+Pradeep Sangwan,,Bowler, Mumbai Indians,2018,"1,50,00,000",,,,,15000000,1.5,p_sangwan,bowler,905,1267,44,8.4,5.83,3.886667
+Jason Behrendorff,,Bowler, Mumbai Indians,2018,"1,50,00,000",,,,,15000000,1.5,j_behrendorff,bowler,379,563,22,8.91,6.97,4.646667
+Jean-Paul Duminy,,All-Rounder, Mumbai Indians,2018,"1,00,00,000",,,,,10000000,1.0,j_duminy,allrounder,701,847,23,7.25,3.94,3.94
+Mayank Markande,,Bowler, Mumbai Indians,2018,"20,00,000",,,,,2000000,0.2,m_markande,bowler,737,1081,37,8.8,6.02,30.1
+Anukul Roy,,All-Rounder, Mumbai Indians,2018,"20,00,000",,,,,2000000,0.2,a_roy,allrounder,142,191,6,8.07,5.07,25.35
+Mohsin Khan,,Bowler, Mumbai Indians,2018,"20,00,000",,,,,2000000,0.2,m_khan,bowler,12,16,0,8.0,0.0,0.0
+Mohsin Khan,,Bowler, Mumbai Indians,2018,"20,00,000",,,,,2000000,0.2,m_khan,bowler,507,698,27,8.26,6.39,31.95
+Benjamin Stokes,,All-Rounder, Rajasthan Royals,2018,"12,50,00,000",,,,,125000000,12.5,b_stokes,allrounder,723,1023,31,8.49,5.15,0.412
+Jaydev Unadkat,,Bowler, Rajasthan Royals,2018,"11,50,00,000",,,,,115000000,11.5,j_unadkat,bowler,2194,3219,109,8.8,5.96,0.518261
+Jofra Archer,,All-Rounder, Rajasthan Royals,2018,"7,20,00,000",,,,,72000000,7.2,j_archer,allrounder,987,1210,49,7.36,5.96,0.827778
+Krishnappa Gowtham,,Bowler, Rajasthan Royals,2018,"6,20,00,000",,,,,62000000,6.2,k_gowtham,bowler,599,825,22,8.26,4.41,0.71129
+Darcy Short,,All-Rounder, Rajasthan Royals,2018,"4,00,00,000",,,,,40000000,4.0,d_short,allrounder,18,23,1,7.67,6.67,1.6675
+Dhawal Kulkarni,,Bowler, Rajasthan Royals,2018,"75,00,000",,,,,7500000,0.75,d_kulkarni,bowler,1876,2513,91,8.04,5.82,7.76
+Ben Laughlin,,Bowler, Rajasthan Royals,2018,"50,00,000",,,,,5000000,0.5,b_laughlin,bowler,179,284,10,9.52,6.7,13.4
+Stuart Binny,,All-Rounder, Rajasthan Royals,2018,"50,00,000",,,,,5000000,0.5,s_binny,allrounder,611,763,28,7.49,5.5,11.0
+Anureet Singh,,Bowler, Rajasthan Royals,2018,"30,00,000",,,,,3000000,0.3,a_singh,bowler,486,639,31,7.89,7.65,25.5
+Anureet Singh,,Bowler, Rajasthan Royals,2018,"30,00,000",,,,,3000000,0.3,a_singh,bowler,141,227,5,9.66,4.26,14.2
+Anureet Singh,,Bowler, Rajasthan Royals,2018,"30,00,000",,,,,3000000,0.3,a_singh,bowler,430,636,21,8.87,5.86,19.533333
+Anureet Singh,,Bowler, Rajasthan Royals,2018,"30,00,000",,,,,3000000,0.3,a_singh,bowler,1453,2097,84,8.66,6.94,23.133333
+Shreyas Gopal,,All-Rounder, Rajasthan Royals,2018,"20,00,000",,,,,2000000,0.2,s_gopal,allrounder,1000,1358,53,8.15,6.36,31.8
+Jatin Saxena,,All-Rounder, Rajasthan Royals,2018,"20,00,000",,,,,2000000,0.2,j_saxena,allrounder,18,27,0,9.0,0.0,0.0
+Ankit Sharma,,All-Rounder, Rajasthan Royals,2018,"20,00,000",,,,,2000000,0.2,a_sharma,allrounder,278,396,11,8.55,4.75,23.75
+Ankit Sharma,,All-Rounder, Rajasthan Royals,2018,"20,00,000",,,,,2000000,0.2,a_sharma,allrounder,375,453,12,7.25,3.84,19.2
+Mahipal Lomror,,All-Rounder, Rajasthan Royals,2018,"20,00,000",,,,,2000000,0.2,m_lomror,allrounder,94,127,2,8.11,2.55,12.75
+Chris Woakes,,All-Rounder, Royal Challengers Bengaluru,2018,"7,40,00,000",,,,,74000000,7.4,c_woakes,allrounder,463,674,31,8.73,8.03,1.085135
+Yuzvendra Singh Chahal,,Bowler, Royal Challengers Bengaluru,2018,"6,00,00,000",,,,,60000000,6.0,y_chahal,bowler,3628,4681,213,7.74,7.05,1.175
+Umesh Yadav,,Bowler, Royal Challengers Bengaluru,2018,"4,20,00,000",,,,,42000000,4.2,u_yadav,bowler,3190,4442,163,8.35,6.13,1.459524
+Navdeep Saini,,Bowler, Royal Challengers Bengaluru,2018,"3,00,00,000",,,,,30000000,3.0,n_saini,bowler,15,35,0,14.0,0.0,0.0
+Navdeep Saini,,Bowler, Royal Challengers Bengaluru,2018,"3,00,00,000",,,,,30000000,3.0,n_saini,bowler,682,968,26,8.52,4.57,1.523333
+Mohammed Siraj,,Bowler, Royal Challengers Bengaluru,2018,"2,60,00,000",,,,,26000000,2.6,m_siraj,bowler,2081,2894,96,8.34,5.54,2.130769
+Nathan Coulter-Nile,,Bowler, Royal Challengers Bengaluru,2018,"2,20,00,000",,,,,22000000,2.2,n_coulter-nile,bowler,892,1125,52,7.57,7.0,3.181818
+Colin De Grandhomme,,All-Rounder, Royal Challengers Bengaluru,2018,"2,20,00,000",,,,,22000000,2.2,c_grandhomme,allrounder,230,323,7,8.43,3.65,1.659091
+M. Ashwin,,Bowler, Royal Challengers Bengaluru,2018,"2,20,00,000",,,,,22000000,2.2,m_ashwin,bowler,898,1182,35,7.9,4.68,2.127273
+Moeen Ali,,All-Rounder, Royal Challengers Bengaluru,2018,"1,70,00,000",,,,,17000000,1.7,m_ali,allrounder,770,900,40,7.01,6.23,3.664706
+Mandeep Singh,,All-Rounder, Royal Challengers Bengaluru,2018,"1,40,00,000",,,,,14000000,1.4,m_singh,allrounder,12,26,0,13.0,0.0,0.0
+Pawan Negi,,All-Rounder, Royal Challengers Bengaluru,2018,"1,00,00,000",,,,,10000000,1.0,p_negi,allrounder,733,954,38,7.81,6.22,6.22
+Tim Southee,,Bowler, Royal Challengers Bengaluru,2018,"1,00,00,000",,,,,10000000,1.0,t_southee,bowler,1262,1774,57,8.43,5.42,5.42
+Kulwant Khejroliya,,Bowler, Royal Challengers Bengaluru,2018,"85,00,000",,,,,8500000,0.85,k_khejroliya,bowler,129,221,5,10.28,4.65,5.470588
+Aniket Choudhary,,Bowler, Royal Challengers Bengaluru,2018,"30,00,000",,,,,3000000,0.3,a_choudhary,bowler,108,144,5,8.0,5.56,18.533333
+Siddarth Kaul,,Bowler, Sunrisers Hyderabad,2018,"3,80,00,000",,,,,38000000,3.8,s_kaul,bowler,1238,1772,63,8.59,6.11,1.607895
+Deepak Hooda,,All-Rounder, Sunrisers Hyderabad,2018,"3,60,00,000",,,,,36000000,3.6,d_hooda,allrounder,384,535,10,8.36,3.12,0.866667
+Syed Khaleel Ahmed,,Bowler, Sunrisers Hyderabad,2018,"3,00,00,000",,,,,30000000,3.0,s_ahmed,bowler,549,850,21,9.29,4.59,1.53
+Syed Khaleel Ahmed,,Bowler, Sunrisers Hyderabad,2018,"3,00,00,000",,,,,30000000,3.0,s_ahmed,bowler,103,154,5,8.97,5.83,1.943333
+Sandeep Sharma,,Bowler, Sunrisers Hyderabad,2018,"3,00,00,000",,,,,30000000,3.0,s_sharma,bowler,2925,3758,153,7.71,6.28,2.093333
+Sandeep Sharma,,Bowler, Sunrisers Hyderabad,2018,"3,00,00,000",,,,,30000000,3.0,s_sharma,bowler,114,165,4,8.68,4.21,1.403333
+Sandeep Sharma,,Bowler, Sunrisers Hyderabad,2018,"3,00,00,000",,,,,30000000,3.0,s_sharma,bowler,264,381,11,8.66,5.0,1.666667
+Carlos Brathwaite,,All-Rounder, Sunrisers Hyderabad,2018,"2,00,00,000",,,,,20000000,2.0,c_brathwaite,allrounder,266,384,16,8.66,7.22,3.61
+Shakib Al Hasan,,All-Rounder, Sunrisers Hyderabad,2018,"2,00,00,000",,,,,20000000,2.0,s_hasan,allrounder,1515,1864,71,7.38,5.62,2.81
+Yusuf Pathan,,All-Rounder, Sunrisers Hyderabad,2018,"1,90,00,000",,,,,19000000,1.9,y_pathan,allrounder,1184,1443,46,7.31,4.66,2.452632
+Mohammad Nabi,,All-Rounder, Sunrisers Hyderabad,2018,"1,00,00,000",,,,,10000000,1.0,m_nabi,allrounder,419,527,15,7.55,4.3,4.3
+Chris Jordan,,All-Rounder, Sunrisers Hyderabad,2018,"1,00,00,000",,,,,10000000,1.0,c_jordan,allrounder,717,1111,36,9.3,6.03,6.03
+Basil Thampi,,Bowler, Sunrisers Hyderabad,2018,"95,00,000",,,,,9500000,0.95,b_thampi,bowler,539,862,26,9.6,5.79,6.094737
+T Natarajan,,Bowler, Sunrisers Hyderabad,2018,"40,00,000",,,,,4000000,0.4,t_natarajan,bowler,1401,2001,76,8.57,6.51,16.275
+Bipul Sharma,,All-Rounder, Sunrisers Hyderabad,2018,"20,00,000",,,,,2000000,0.2,b_sharma,allrounder,436,581,22,8.0,6.06,30.3
+Syed Mehdi Hasan,,All-Rounder, Sunrisers Hyderabad,2018,"20,00,000",,,,,2000000,0.2,s_hasan,allrounder,1515,1864,71,7.38,5.62,28.1
+Mohit Sharma,,Bowler, Chennai Super Kings,2019,"5,00,00,000",,,,,50000000,5.0,m_sharma,bowler,2308,3278,147,8.52,7.64,1.528
+Axar Rajesh Patel,,All-Rounder, Delhi Capitals,2019,"5,00,00,000",,,,,50000000,5.0,a_patel,allrounder,3152,3824,131,7.28,4.99,0.998
+Sherfane Rutherford,,All-Rounder, Delhi Capitals,2019,"2,00,00,000",,,,,20000000,2.0,s_rutherford,allrounder,46,60,1,7.83,2.61,1.305
+Ishant Sharma,,Bowler, Delhi Capitals,2019,"1,10,00,000",,,,,11000000,1.1,i_sharma,bowler,2429,3255,96,8.04,4.74,4.309091
+Keemo Paul,,All-Rounder, Delhi Capitals,2019,"50,00,000",,,,,5000000,0.5,k_paul,allrounder,180,239,10,7.97,6.67,13.34
+Jalaj Saxena,,All-Rounder, Delhi Capitals,2019,"20,00,000",,,,,2000000,0.2,j_saxena,allrounder,18,27,0,9.0,0.0,0.0
+Nathu Singh,,Bowler, Delhi Capitals,2019,"20,00,000",,,,,2000000,0.2,n_singh,bowler,25,18,1,4.32,4.8,24.0
+Sam Curran,,All-Rounder,Kings XI Punjab,2019,"7,20,00,000",,,,,72000000,7.2,s_curran,allrounder,1234,1924,62,9.35,6.03,0.8375
+Mohammad Shami,,Bowler,Kings XI Punjab,2019,"4,80,00,000",,,,,48000000,4.8,m_shami,bowler,2521,3486,144,8.3,6.85,1.427083
+Moises Henriques,,All-Rounder,Kings XI Punjab,2019,"1,00,00,000",,,,,10000000,1.0,m_henriques,allrounder,979,1302,46,7.98,5.64,5.64
+Darshan Nalkande,,All-Rounder,Kings XI Punjab,2019,"30,00,000",,,,,3000000,0.3,d_nalkande,allrounder,89,150,6,10.11,8.09,26.966667
+Sarfaraz Naushad Khan,,All-Rounder,Kings XI Punjab,2019,"25,00,000",,,,,2500000,0.25,s_khan,allrounder,2,6,0,18.0,0.0,0.0
+Arshdeep Singh ,,Bowler,Kings XI Punjab,2019,"20,00,000",,,,,2000000,0.2,a_singh,bowler,486,639,31,7.89,7.65,38.25
+Arshdeep Singh ,,Bowler,Kings XI Punjab,2019,"20,00,000",,,,,2000000,0.2,a_singh,bowler,141,227,5,9.66,4.26,21.3
+Arshdeep Singh ,,Bowler,Kings XI Punjab,2019,"20,00,000",,,,,2000000,0.2,a_singh,bowler,430,636,21,8.87,5.86,29.3
+Arshdeep Singh ,,Bowler,Kings XI Punjab,2019,"20,00,000",,,,,2000000,0.2,a_singh,bowler,1453,2097,84,8.66,6.94,34.7
+Harpreet Brar,,All-Rounder,Kings XI Punjab,2019,"20,00,000",,,,,2000000,0.2,h_brar,allrounder,692,907,25,7.86,4.34,21.7
+M. Ashwin,,Bowler,Kings XI Punjab,2019,"20,00,000",,,,,2000000,0.2,m_ashwin,bowler,898,1182,35,7.9,4.68,23.4
+Carlos Brathwaite,,All-Rounder, Kolkata Knight Riders,2019,"5,00,00,000",,,,,50000000,5.0,c_brathwaite,allrounder,266,384,16,8.66,7.22,1.444
+Lockie Ferguson ,,Bowler, Kolkata Knight Riders,2019,"1,60,00,000",,,,,16000000,1.6,l_ferguson,bowler,1002,1451,57,8.69,6.83,4.26875
+Harry Gurney,,Bowler, Kolkata Knight Riders,2019,"75,00,000",,,,,7500000,0.75,h_gurney,bowler,169,239,7,8.49,4.97,6.626667
+Shrikant Mundhe,,All-Rounder, Kolkata Knight Riders,2019,"20,00,000",,,,,2000000,0.2,s_mundhe,allrounder,7,6,1,5.14,17.14,85.7
+Anrich Nortje,,Bowler, Kolkata Knight Riders,2019,"20,00,000",,,,,2000000,0.2,a_nortje,bowler,1097,1614,62,8.83,6.78,33.9
+Barinder Singh Sran,,Bowler, Mumbai Indians,2019,"3,40,00,000",,,,,34000000,3.4,b_sran,bowler,516,767,20,8.92,4.65,1.367647
+Yuvraj Singh,,All-Rounder, Mumbai Indians,2019,"1,00,00,000",,,,,10000000,1.0,y_singh,allrounder,74,125,4,10.14,6.49,6.49
+Yuvraj Singh,,All-Rounder, Mumbai Indians,2019,"1,00,00,000",,,,,10000000,1.0,y_singh,allrounder,882,1091,39,7.42,5.31,5.31
+Jaydev Unadkat,,Bowler, Rajasthan Royals,2019,"8,40,00,000",,,,,84000000,8.4,j_unadkat,bowler,2194,3219,109,8.8,5.96,0.709524
+Varun Aaron,,Bowler, Rajasthan Royals,2019,"2,40,00,000",,,,,24000000,2.4,v_aaron,bowler,1065,1527,46,8.6,5.18,2.158333
+Oshane Thomas ,,Bowler, Rajasthan Royals,2019,"1,10,00,000",,,,,11000000,1.1,o_thomas,bowler,63,85,5,8.1,9.52,8.654545
+Liam Livingstone,,All-Rounder, Rajasthan Royals,2019,"50,00,000",,,,,5000000,0.5,l_livingstone,allrounder,267,395,11,8.88,4.94,9.88
+Shashank Singh,,All-Rounder, Rajasthan Royals,2019,"30,00,000",,,,,3000000,0.3,s_singh,allrounder,19,25,1,7.89,6.32,21.066667
+Shashank Singh,,All-Rounder, Rajasthan Royals,2019,"30,00,000",,,,,3000000,0.3,s_singh,allrounder,193,265,10,8.24,6.22,20.733333
+Shashank Singh,,All-Rounder, Rajasthan Royals,2019,"30,00,000",,,,,3000000,0.3,s_singh,allrounder,165,241,7,8.76,5.09,16.966667
+Riyan Parag,,All-Rounder, Rajasthan Royals,2019,"20,00,000",,,,,2000000,0.2,r_parag,allrounder,181,307,5,10.18,3.31,16.55
+Shivam Dube,,All-Rounder, Royal Challengers Bengaluru,2019,"5,00,00,000",,,,,50000000,5.0,s_dube,allrounder,117,190,6,9.74,6.15,1.23
+Prayas Ray Barman,,All-Rounder, Royal Challengers Bengaluru,2019,"1,50,00,000",,,,,15000000,1.5,p_barman,allrounder,24,56,0,14.0,0.0,0.0
+Milind Kumar,,All-Rounder, Royal Challengers Bengaluru,2019,"20,00,000",,,,,2000000,0.2,m_kumar,allrounder,16,20,0,7.5,0.0,0.0
+Milind Kumar,,All-Rounder, Royal Challengers Bengaluru,2019,"20,00,000",,,,,2000000,0.2,m_kumar,allrounder,420,707,31,10.1,8.86,44.3
+Piyush Chawla,,Bowler, Chennai Super Kings,2020,"6,75,00,000",,,,,67500000,6.75,p_chawla,bowler,3895,5179,201,7.98,6.19,0.917037
+Sam Curran,,All-Rounder, Chennai Super Kings,2020,"5,50,00,000",,,,,55000000,5.5,s_curran,allrounder,1234,1924,62,9.35,6.03,1.096364
+Josh Hazlewood,,Bowler, Chennai Super Kings,2020,"2,00,00,000",,,,,20000000,2.0,j_hazlewood,bowler,622,830,36,8.01,6.95,3.475
+R. Sai Kishore,,Bowler, Chennai Super Kings,2020,"20,00,000",,,,,2000000,0.2,r_kishore,bowler,191,259,13,8.14,8.17,40.85
+Marcus Stoinis,,All-Rounder, Delhi Capitals,2020,"4,80,00,000",,,,,48000000,4.8,m_stoinis,allrounder,831,1300,45,9.39,6.5,1.354167
+Chris Woakes,,All-Rounder, Delhi Capitals,2020,"1,50,00,000",,,,,15000000,1.5,c_woakes,allrounder,463,674,31,8.73,8.03,5.353333
+Mohit Sharma,,Bowler, Delhi Capitals,2020,"50,00,000",,,,,5000000,0.5,m_sharma,bowler,2308,3278,147,8.52,7.64,15.28
+Tushar Deshpande,,Bowler, Delhi Capitals,2020,"20,00,000",,,,,2000000,0.2,t_deshpande,bowler,831,1275,46,9.21,6.64,33.2
+Lalit Yadav,,All-Rounder, Delhi Capitals,2020,"20,00,000",,,,,2000000,0.2,l_yadav,allrounder,294,430,11,8.78,4.49,22.45
+Glenn Maxwell,,All-Rounder, Kings XI Punjab,2020,"10,75,00,000",,,,,107500000,10.75,g_maxwell,allrounder,965,1311,41,8.15,5.1,0.474419
+Sheldon Cottrell,,Bowler, Kings XI Punjab,2020,"8,50,00,000",,,,,85000000,8.5,s_cottrell,bowler,131,177,6,8.11,5.5,0.647059
+Chris Jordan,,All-Rounder, Kings XI Punjab,2020,"3,00,00,000",,,,,30000000,3.0,c_jordan,allrounder,717,1111,36,9.3,6.03,2.01
+Ravi Bishnoi,,Bowler, Kings XI Punjab,2020,"2,00,00,000",,,,,20000000,2.0,r_bishnoi,bowler,1460,1861,68,7.65,5.59,2.795
+Deepak Hooda,,All-Rounder, Kings XI Punjab,2020,"50,00,000",,,,,5000000,0.5,d_hooda,allrounder,384,535,10,8.36,3.12,6.24
+James Neesham,,All-Rounder, Kings XI Punjab,2020,"50,00,000",,,,,5000000,0.5,j_neesham,allrounder,222,342,8,9.24,4.32,8.64
+Ishan Porel,,Bowler, Kings XI Punjab,2020,"20,00,000",,,,,2000000,0.2,i_porel,bowler,26,42,1,9.69,4.62,23.1
+Pat Cummins,,All-Rounder, Kolkata Knight Riders,2020,"15,50,00,000",,,,,155000000,15.5,p_cummins,allrounder,1370,1976,66,8.65,5.78,0.372903
+Chris Green,,All-Rounder, Kolkata Knight Riders,2020,"20,00,000",,,,,2000000,0.2,c_green,allrounder,462,675,20,8.77,5.19,25.95
+Chris Green,,All-Rounder, Kolkata Knight Riders,2020,"20,00,000",,,,,2000000,0.2,c_green,allrounder,17,24,0,8.47,0.0,0.0
+Pravin Tambe,,Bowler, Kolkata Knight Riders,2020,"20,00,000",,,,,2000000,0.2,p_tambe,bowler,674,866,28,7.71,4.99,24.95
+M Siddharth,,Bowler, Kolkata Knight Riders,2020,"20,00,000",,,,,2000000,0.2,m_siddharth,bowler,58,72,1,7.45,2.07,10.35
+Nathan Coulter-Nile,,Bowler, Mumbai Indians,2020,"8,00,00,000",,,,,80000000,8.0,n_coulter-nile,bowler,892,1125,52,7.57,7.0,0.875
+Prince Balwant Rai Singh,,All-Rounder, Mumbai Indians,2020,"20,00,000",,,,,2000000,0.2,p_singh,allrounder,311,472,11,9.11,4.24,21.2
+Mohsin Khan,,Bowler, Mumbai Indians,2020,"20,00,000",,,,,2000000,0.2,m_khan,bowler,12,16,0,8.0,0.0,0.0
+Mohsin Khan,,Bowler, Mumbai Indians,2020,"20,00,000",,,,,2000000,0.2,m_khan,bowler,507,698,27,8.26,6.39,31.95
+Jaydev Unadkat,,Bowler, Rajasthan Royals,2020,"3,00,00,000",,,,,30000000,3.0,j_unadkat,bowler,2194,3219,109,8.8,5.96,1.986667
+Yashasvi Jaiswal,,All-Rounder, Rajasthan Royals,2020,"2,40,00,000",,,,,24000000,2.4,y_jaiswal,allrounder,1,6,0,36.0,0.0,0.0
+Kartik Tyagi,,Bowler, Rajasthan Royals,2020,"1,30,00,000",,,,,13000000,1.3,k_tyagi,bowler,458,720,16,9.43,4.19,3.223077
+Tom Curran,,All-Rounder, Rajasthan Royals,2020,"1,00,00,000",,,,,10000000,1.0,t_curran,allrounder,252,432,13,10.29,6.19,6.19
+Andrew Tye,,Bowler, Rajasthan Royals,2020,"1,00,00,000",,,,,10000000,1.0,a_tye,bowler,714,1005,48,8.45,8.07,8.07
+Oshane Thomas ,,Bowler, Rajasthan Royals,2020,"50,00,000",,,,,5000000,0.5,o_thomas,bowler,63,85,5,8.1,9.52,19.04
+Akash Singh,,Bowler, Rajasthan Royals,2020,"20,00,000",,,,,2000000,0.2,a_singh,bowler,486,639,31,7.89,7.65,38.25
+Akash Singh,,Bowler, Rajasthan Royals,2020,"20,00,000",,,,,2000000,0.2,a_singh,bowler,141,227,5,9.66,4.26,21.3
+Akash Singh,,Bowler, Rajasthan Royals,2020,"20,00,000",,,,,2000000,0.2,a_singh,bowler,430,636,21,8.87,5.86,29.3
+Akash Singh,,Bowler, Rajasthan Royals,2020,"20,00,000",,,,,2000000,0.2,a_singh,bowler,1453,2097,84,8.66,6.94,34.7
+Christopher Morris,,All-Rounder, Royal Challengers Bengaluru,2020,"10,00,00,000",,,,,100000000,10.0,c_morris,allrounder,1801,2377,107,7.92,7.13,0.713
+Kane Richardson,,Bowler, Royal Challengers Bengaluru,2020,"4,00,00,000",,,,,40000000,4.0,k_richardson,bowler,345,479,21,8.33,7.3,1.825
+Dale Steyn,,Bowler, Royal Challengers Bengaluru,2020,"2,00,00,000",,,,,20000000,2.0,d_steyn,bowler,2282,2583,105,6.79,5.52,2.76
+Isuru Udana,,All-Rounder, Royal Challengers Bengaluru,2020,"50,00,000",,,,,5000000,0.5,i_udana,allrounder,182,286,8,9.43,5.27,10.54
+Mitchell Marsh,,All-Rounder, Sunrisers Hyderabad,2020,"2,00,00,000",,,,,20000000,2.0,m_marsh,allrounder,593,803,37,8.12,7.49,3.745
+Fabian Allen,,All-Rounder, Sunrisers Hyderabad,2020,"50,00,000",,,,,5000000,0.5,f_allen,allrounder,91,136,2,8.97,2.64,5.28
+Sanjay Yadav,,All-Rounder, Sunrisers Hyderabad,2020,"20,00,000",,,,,2000000,0.2,s_yadav,allrounder,6,8,0,8.0,0.0,0.0
+Abdul Samad,,All-Rounder, Sunrisers Hyderabad,2020,"20,00,000",,,,,2000000,0.2,a_samad,allrounder,55,113,2,12.33,4.36,21.8
+Krishnappa Gowtham,,All-Rounder, Chennai Super Kings,2021,"9,25,00,000",,,,,92500000,9.25,k_gowtham,allrounder,599,825,22,8.26,4.41,0.476757
+Moeen Ali,,All-Rounder, Chennai Super Kings,2021,"7,00,00,000",,,,,70000000,7.0,m_ali,allrounder,770,900,40,7.01,6.23,0.89
+Tom Curran ,,All-Rounder , Delhi Capitals,2021,"5,25,00,000",,,,,52500000,5.25,t_curran,allrounder,252,432,13,10.29,6.19,1.179048
+Umesh Yadav ,,Bowler , Delhi Capitals,2021,"1,00,00,000",,,,,10000000,1.0,u_yadav,bowler,3190,4442,163,8.35,6.13,6.13
+Ripal Patel ,,All-Rounder , Delhi Capitals,2021,"20,00,000",,,,,2000000,0.2,r_patel,allrounder,20,22,0,6.6,0.0,0.0
+Lukman Hussain Meriwala ,,Bowler , Delhi Capitals,2021,"20,00,000",,,,,2000000,0.2,l_meriwala,bowler,19,32,1,10.11,6.32,31.6
+M Siddharth ,,Bowler , Delhi Capitals,2021,"20,00,000",,,,,2000000,0.2,m_siddharth,bowler,58,72,1,7.45,2.07,10.35
+Shakib Al Hasan ,,All-Rounder , Kolkata Knight Riders,2021,"3,20,00,000",,,,,32000000,3.2,s_hasan,allrounder,1515,1864,71,7.38,5.62,1.75625
+Harbhajan Singh ,,Bowler , Kolkata Knight Riders,2021,"2,00,00,000",,,,,20000000,2.0,h_singh,bowler,3496,4101,161,7.04,5.53,2.765
+Harbhajan Singh ,,Bowler , Kolkata Knight Riders,2021,"2,00,00,000",,,,,20000000,2.0,h_singh,bowler,574,747,31,7.81,6.48,3.24
+Ben Cutting ,,All-Rounder , Kolkata Knight Riders,2021,"75,00,000",,,,,7500000,0.75,b_cutting,allrounder,288,430,12,8.96,5.0,6.666667
+Pawan Negi ,,All-Rounder , Kolkata Knight Riders,2021,"50,00,000",,,,,5000000,0.5,p_negi,allrounder,733,954,38,7.81,6.22,12.44
+Venkatesh Iyer ,,All-Rounder , Kolkata Knight Riders,2021,"20,00,000",,,,,2000000,0.2,v_iyer,allrounder,84,145,3,10.36,4.29,21.45
+Vaibhav Arora ,,Bowler , Kolkata Knight Riders,2021,"20,00,000",,,,,2000000,0.2,v_arora,bowler,418,598,20,8.58,5.74,28.7
+Nathan Coulter-Nile ,,Bowler , Mumbai Indians,2021,"5,00,00,000",,,,,50000000,5.0,n_coulter-nile,bowler,892,1125,52,7.57,7.0,1.4
+Adam Milne ,,Bowler , Mumbai Indians,2021,"3,20,00,000",,,,,32000000,3.2,a_milne,bowler,217,339,9,9.37,4.98,1.55625
+Piyush Chawla ,,Bowler , Mumbai Indians,2021,"2,40,00,000",,,,,24000000,2.4,p_chawla,bowler,3895,5179,201,7.98,6.19,2.579167
+James Neesham ,,All-Rounder , Mumbai Indians,2021,"50,00,000",,,,,5000000,0.5,j_neesham,allrounder,222,342,8,9.24,4.32,8.64
+Marco Jansen ,,All-Rounder , Mumbai Indians,2021,"20,00,000",,,,,2000000,0.2,m_jansen,allrounder,487,732,22,9.02,5.42,27.1
+Arjun Tendulkar ,,All-Rounder , Mumbai Indians,2021," 20,00,000",,,,,2000000,0.2,a_tendulkar,allrounder,83,117,4,8.46,5.78,28.9
+Jhye Richardson ,,Bowler , Punjab Kings,2021,"14,00,00,000",,,,,140000000,14.0,j_richardson,bowler,94,162,3,10.34,3.83,0.273571
+Riley Meredith ,,Bowler , Punjab Kings,2021,"8,00,00,000",,,,,80000000,8.0,r_meredith,bowler,415,621,21,8.98,6.07,0.75875
+Shahrukh Khan ,,All-Rounder , Punjab Kings,2021,"5,25,00,000",,,,,52500000,5.25,s_khan,allrounder,2,6,0,18.0,0.0,0.0
+Moises Henriques ,,All-Rounder , Punjab Kings,2021,"4,20,00,000",,,,,42000000,4.2,m_henriques,allrounder,979,1302,46,7.98,5.64,1.342857
+Fabian Allen ,, All-Rounder , Punjab Kings,2021,"75,00,000",,,,,7500000,0.75,f_allen,allrounder,91,136,2,8.97,2.64,3.52
+Jalaj Saxena ,,All-Rounder , Punjab Kings,2021,"30,00,000",,,,,3000000,0.3,j_saxena,allrounder,18,27,0,9.0,0.0,0.0
+Saurabh Kumar ,,All-Rounder , Punjab Kings,2021,"20,00,000",,,,,2000000,0.2,s_kumar,allrounder,22,38,0,10.36,0.0,0.0
+Christopher Morris ,,All-Rounder , Rajasthan Royals,2021,"16,25,00,000",,,,,162500000,16.25,c_morris,allrounder,1801,2377,107,7.92,7.13,0.438769
+Shivam Dube ,,All-Rounder , Rajasthan Royals,2021,"4,40,00,000",,,,,44000000,4.4,s_dube,allrounder,117,190,6,9.74,6.15,1.397727
+Chetan Sakariya ,,Bowler , Rajasthan Royals,2021,"1,20,00,000",,,,,12000000,1.2,c_sakariya,bowler,460,610,20,7.96,5.22,4.35
+Mustafizur Rahman ,,Bowler , Rajasthan Royals,2021,"1,00,00,000",,,,,10000000,1.0,m_rahman,bowler,452,598,20,7.94,5.31,5.31
+Mustafizur Rahman ,,Bowler , Rajasthan Royals,2021,"1,00,00,000",,,,,10000000,1.0,m_rahman,bowler,1353,1792,70,7.95,6.21,6.21
+Liam Livingstone ,,All-Rounder , Rajasthan Royals,2021,"75,00,000",,,,,7500000,0.75,l_livingstone,allrounder,267,395,11,8.88,4.94,6.586667
+K.C Cariappa ,,Bowler , Rajasthan Royals,2021,"20,00,000",,,,,2000000,0.2,k_cariappa,bowler,224,349,8,9.35,4.29,21.45
+Akash Singh ,,Bowler, Rajasthan Royals,2021,"20,00,000",,,,,2000000,0.2,a_singh,bowler,486,639,31,7.89,7.65,38.25
+Akash Singh ,,Bowler, Rajasthan Royals,2021,"20,00,000",,,,,2000000,0.2,a_singh,bowler,141,227,5,9.66,4.26,21.3
+Akash Singh ,,Bowler, Rajasthan Royals,2021,"20,00,000",,,,,2000000,0.2,a_singh,bowler,430,636,21,8.87,5.86,29.3
+Akash Singh ,,Bowler, Rajasthan Royals,2021,"20,00,000",,,,,2000000,0.2,a_singh,bowler,1453,2097,84,8.66,6.94,34.7
+Kuldip Yadav ,, Bowler , Rajasthan Royals,2021," 20,00,000",,,,,2000000,0.2,k_yadav,bowler,54,85,2,9.44,4.44,22.2
+Kuldip Yadav ,, Bowler , Rajasthan Royals,2021," 20,00,000",,,,,2000000,0.2,k_yadav,bowler,1786,2413,90,8.11,6.05,30.25
+Kyle Jamieson ,,All-Rounder , Royal Challengers Bengaluru,2021,"15,00,00,000",,,,,150000000,15.0,k_jamieson,allrounder,179,271,9,9.08,6.03,0.402
+Glenn Maxwell ,,All-Rounder , Royal Challengers Bengaluru,2021,"14,25,00,000",,,,,142500000,14.25,g_maxwell,allrounder,965,1311,41,8.15,5.1,0.357895
+Dan Christian ,,All-Rounder , Royal Challengers Bengaluru,2021,"4,80,00,000",,,,,48000000,4.8,d_christian,allrounder,922,1218,40,7.93,5.21,1.085417
+J Suchith ,,Bowler , Sunrisers Hyderabad,2021,"30,00,000",,,,,3000000,0.3,j_suchith,bowler,434,604,20,8.35,5.53,18.433333
+Dwayne Bravo ,,All-Rounder , Chennai Super Kings,2022,"4,40,00,000 ",Overseas ,,,,44000000,4.4,d_bravo,allrounder,3296,4436,207,8.08,7.54,1.713636
+Deepak Chahar ,,Bowler , Chennai Super Kings,2022,"14,00,00,000 ",Indian ,,,,140000000,14.0,d_chahar,bowler,1746,2243,79,7.71,5.43,0.387857
+K.M. Asif ,,Bowler , Chennai Super Kings,2022,"20,00,000 ",Indian ,,,,2000000,0.2,k_asif,bowler,143,232,7,9.73,5.87,29.35
+Tushar Deshpande ,,Bowler , Chennai Super Kings,2022,"20,00,000 ",Indian ,,,,2000000,0.2,t_deshpande,bowler,831,1275,46,9.21,6.64,33.2
+Shivam Dube ,,All-Rounder , Chennai Super Kings,2022,"4,00,00,000 ",Indian ,,,,40000000,4.0,s_dube,allrounder,117,190,6,9.74,6.15,1.5375
+Chris Jordan ,,All-Rounder , Chennai Super Kings,2022,"3,60,00,000 ",Overseas ,,,,36000000,3.6,c_jordan,allrounder,717,1111,36,9.3,6.03,1.675
+Maheesh Theekshana ,,Bowler , Chennai Super Kings,2022,"70,00,000 ",Overseas ,,,,7000000,0.7,m_theekshana,bowler,631,814,25,7.74,4.75,6.785714
+Rajvardhan Hangargekar ,,All-Rounder , Chennai Super Kings,2022,"1,50,00,000 ",Indian ,,,,15000000,1.5,r_hangargekar,allrounder,43,60,3,8.37,8.37,5.58
+Simarjeet Singh ,,Bowler , Chennai Super Kings,2022,"20,00,000 ",Indian ,,,,2000000,0.2,s_singh,bowler,19,25,1,7.89,6.32,31.6
+Simarjeet Singh ,,Bowler , Chennai Super Kings,2022,"20,00,000 ",Indian ,,,,2000000,0.2,s_singh,bowler,193,265,10,8.24,6.22,31.1
+Simarjeet Singh ,,Bowler , Chennai Super Kings,2022,"20,00,000 ",Indian ,,,,2000000,0.2,s_singh,bowler,165,241,7,8.76,5.09,25.45
+Dwaine Pretorius ,,All-Rounder , Chennai Super Kings,2022,"50,00,000 ",Overseas ,,,,5000000,0.5,d_pretorius,allrounder,166,242,7,8.75,5.06,10.12
+Mitchell Santner ,,All-Rounder , Chennai Super Kings,2022,"1,90,00,000 ",Overseas ,,,,19000000,1.9,m_santner,allrounder,370,428,16,6.94,5.19,2.731579
+Adam Milne ,,Bowler , Chennai Super Kings,2022,"1,90,00,000 ",Overseas ,,,,19000000,1.9,a_milne,bowler,217,339,9,9.37,4.98,2.621053
+Mukesh Choudhary ,,Bowler , Chennai Super Kings,2022,"20,00,000 ",Indian ,,,,2000000,0.2,m_choudhary,bowler,298,452,16,9.1,6.44,32.2
+Prashant Solanki ,,Bowler , Chennai Super Kings,2022,"1,20,00,000 ",Indian ,,,,12000000,1.2,p_solanki,bowler,36,39,2,6.5,6.67,5.558333
+Mitchell Marsh ,,All-Rounder , Delhi Capitals,2022,"6,50,00,000 ",Overseas ,,,,65000000,6.5,m_marsh,allrounder,593,803,37,8.12,7.49,1.152308
+Mustafizur Rahman ,,Bowler , Delhi Capitals,2022,"2,00,00,000 ",Overseas ,,,,20000000,2.0,m_rahman,bowler,452,598,20,7.94,5.31,2.655
+Mustafizur Rahman ,,Bowler , Delhi Capitals,2022,"2,00,00,000 ",Overseas ,,,,20000000,2.0,m_rahman,bowler,1353,1792,70,7.95,6.21,3.105
+Shardul Thakur ,,Bowler , Delhi Capitals,2022,"10,75,00,000 ",Indian ,,,,107500000,10.75,s_thakur,bowler,1979,2908,100,8.82,6.06,0.563721
+Kuldeep Yadav ,,Bowler , Delhi Capitals,2022,"2,00,00,000 ",Indian ,,,,20000000,2.0,k_yadav,bowler,54,85,2,9.44,4.44,2.22
+Kuldeep Yadav ,,Bowler , Delhi Capitals,2022,"2,00,00,000 ",Indian ,,,,20000000,2.0,k_yadav,bowler,1786,2413,90,8.11,6.05,3.025
+Sarfaraz Khan ,,All-Rounder , Delhi Capitals,2022,"20,00,000 ",Indian ,,,,2000000,0.2,s_khan,allrounder,2,6,0,18.0,0.0,0.0
+Kamlesh Nagarkoti ,,All-Rounder , Delhi Capitals,2022,"1,10,00,000 ",Indian ,,,,11000000,1.1,k_nagarkoti,allrounder,185,287,5,9.31,3.24,2.945455
+Syed Khaleel Ahmed ,,Bowler , Delhi Capitals,2022,"5,25,00,000 ",Indian ,,,,52500000,5.25,s_ahmed,bowler,549,850,21,9.29,4.59,0.874286
+Syed Khaleel Ahmed ,,Bowler , Delhi Capitals,2022,"5,25,00,000 ",Indian ,,,,52500000,5.25,s_ahmed,bowler,103,154,5,8.97,5.83,1.110476
+Lungisani Ngidi ,,Bowler , Delhi Capitals,2022,"50,00,000 ",Overseas ,,,,5000000,0.5,l_ngidi,bowler,342,460,28,8.07,9.82,19.64
+Chetan Sakariya ,,Bowler , Delhi Capitals,2022,"4,20,00,000 ",Indian ,,,,42000000,4.2,c_sakariya,bowler,460,610,20,7.96,5.22,1.242857
+Ripal Patel ,,All-Rounder , Delhi Capitals,2022,"20,00,000 ",Indian ,,,,2000000,0.2,r_patel,allrounder,20,22,0,6.6,0.0,0.0
+Lalit Yadav ,,All-Rounder , Delhi Capitals,2022,"65,00,000 ",Indian ,,,,6500000,0.65,l_yadav,allrounder,294,430,11,8.78,4.49,6.907692
+Pravin Dubey ,,All-Rounder , Delhi Capitals,2022,"50,00,000 ",Indian ,,,,5000000,0.5,p_dubey,allrounder,67,91,1,8.15,1.79,3.58
+Mohammad Shami ,,Bowler , Gujarat Titans,2022,"6,25,00,000 ",Indian ,,,,62500000,6.25,m_shami,bowler,2521,3486,144,8.3,6.85,1.096
+Lockie Ferguson ,,Bowler , Gujarat Titans,2022,"10,00,00,000 ",Overseas ,,,,100000000,10.0,l_ferguson,bowler,1002,1451,57,8.69,6.83,0.683
+Rahul Tewatia ,,All-Rounder , Gujarat Titans,2022,"9,00,00,000 ",Indian ,,,,90000000,9.0,r_tewatia,allrounder,866,1117,36,7.74,4.99,0.554444
+Noor  Ahmad ,,Bowler , Gujarat Titans,2022,"30,00,000 ",Overseas ,,,,3000000,0.3,n_ahmad,bowler,513,672,24,7.86,5.61,18.7
+R. Sai Kishore ,,Bowler , Gujarat Titans,2022,"3,00,00,000 ",Indian ,,,,30000000,3.0,r_kishore,bowler,191,259,13,8.14,8.17,2.723333
+Vijay Shankar ,,All-Rounder , Gujarat Titans,2022,"1,40,00,000 ",Indian ,,,,14000000,1.4,v_shankar,allrounder,258,344,12,8.0,5.58,3.985714
+Jayant Yadav ,,All-Rounder , Gujarat Titans,2022,"1,70,00,000 ",Indian ,,,,17000000,1.7,j_yadav,allrounder,398,447,9,6.74,2.71,1.594118
+Darshan Nalkande ,,All-Rounder , Gujarat Titans,2022,"20,00,000 ",Indian ,,,,2000000,0.2,d_nalkande,allrounder,89,150,6,10.11,8.09,40.45
+Yash  Dayal ,,Bowler , Gujarat Titans,2022,"3,20,00,000 ",Indian ,,,,32000000,3.2,y_dayal,bowler,615,933,31,9.1,6.05,1.890625
+Gurkeerat Singh ,,All-Rounder , Gujarat Titans,2022,"50,00,000 ",Indian ,,,,5000000,0.5,g_singh,allrounder,84,142,3,10.14,4.29,8.58
+Gurkeerat Singh ,,All-Rounder , Gujarat Titans,2022,"50,00,000 ",Indian ,,,,5000000,0.5,g_singh,allrounder,82,97,5,7.1,7.32,14.64
+Alzarri Joseph ,,Bowler , Gujarat Titans,2022,"2,40,00,000 ",Overseas ,,,,24000000,2.4,a_joseph,bowler,454,707,22,9.34,5.81,2.420833
+Varun Aaron ,,Bowler , Gujarat Titans,2022,"50,00,000 ",Indian ,,,,5000000,0.5,v_aaron,bowler,1065,1527,46,8.6,5.18,10.36
+Pradeep Sangwan ,,All-Rounder , Gujarat Titans,2022,"20,00,000 ",Indian ,,,,2000000,0.2,p_sangwan,allrounder,905,1267,44,8.4,5.83,29.15
+Pat Cummins ,,All-Rounder , Kolkata Knight Riders,2022,"7,25,00,000 ",Overseas ,,,,72500000,7.25,p_cummins,allrounder,1370,1976,66,8.65,5.78,0.797241
+Mohammad  Nabi ,,All-Rounder , Kolkata Knight Riders,2022,"1,00,00,000 ",Overseas ,,,,10000000,1.0,m_nabi,allrounder,419,527,15,7.55,4.3,4.3
+Nitish Rana ,,All-Rounder , Kolkata Knight Riders,2022,"8,00,00,000 ",Indian ,,,,80000000,8.0,n_rana,allrounder,185,253,10,8.21,6.49,0.81125
+Umesh Yadav ,,Bowler , Kolkata Knight Riders,2022,"2,00,00,000 ",Indian ,,,,20000000,2.0,u_yadav,bowler,3190,4442,163,8.35,6.13,3.065
+Shivam  Mavi ,,All-Rounder , Kolkata Knight Riders,2022,"7,25,00,000 ",Indian ,,,,72500000,7.25,s_mavi,allrounder,687,958,33,8.37,5.76,0.794483
+Anukul Roy ,,All-Rounder , Kolkata Knight Riders,2022,"20,00,000 ",Indian ,,,,2000000,0.2,a_roy,allrounder,142,191,6,8.07,5.07,25.35
+Tim Southee ,,Bowler , Kolkata Knight Riders,2022,"1,50,00,000 ",Overseas ,,,,15000000,1.5,t_southee,bowler,1262,1774,57,8.43,5.42,3.613333
+Aman Khan ,,All-Rounder , Kolkata Knight Riders,2022,"20,00,000 ",Indian ,,,,2000000,0.2,a_khan,allrounder,6,13,0,13.0,0.0,0.0
+Aman Khan ,,All-Rounder , Kolkata Knight Riders,2022,"20,00,000 ",Indian ,,,,2000000,0.2,a_khan,allrounder,153,282,6,11.06,4.71,23.55
+Aman Khan ,,All-Rounder , Kolkata Knight Riders,2022,"20,00,000 ",Indian ,,,,2000000,0.2,a_khan,allrounder,1390,2010,81,8.68,6.99,34.95
+Ashok Sharma ,,Bowler , Kolkata Knight Riders,2022,"55,00,000 ",Indian ,,,,5500000,0.55,a_sharma,bowler,278,396,11,8.55,4.75,8.636364
+Ashok Sharma ,,Bowler , Kolkata Knight Riders,2022,"55,00,000 ",Indian ,,,,5500000,0.55,a_sharma,bowler,375,453,12,7.25,3.84,6.981818
+Krunal Pandya ,,All-Rounder , Lucknow Super Giants,2022,"8,25,00,000 ",Indian ,,,,82500000,8.25,k_pandya,allrounder,2183,2644,80,7.27,4.4,0.533333
+Mark Wood ,,Bowler , Lucknow Super Giants,2022,"7,50,00,000 ",Overseas ,,,,75000000,7.5,m_wood,bowler,127,192,11,9.07,10.39,1.385333
+Avesh Khan ,,Bowler , Lucknow Super Giants,2022,"10,00,00,000 ",Indian ,,,,100000000,10.0,a_khan,bowler,6,13,0,13.0,0.0,0.0
+Avesh Khan ,,Bowler , Lucknow Super Giants,2022,"10,00,00,000 ",Indian ,,,,100000000,10.0,a_khan,bowler,153,282,6,11.06,4.71,0.471
+Avesh Khan ,,Bowler , Lucknow Super Giants,2022,"10,00,00,000 ",Indian ,,,,100000000,10.0,a_khan,bowler,1390,2010,81,8.68,6.99,0.699
+Ankit Singh Rajpoot ,,Bowler , Lucknow Super Giants,2022,"50,00,000 ",Indian ,,,,5000000,0.5,a_rajpoot,bowler,567,844,24,8.93,5.08,10.16
+K. Gowtham ,,All-Rounder , Lucknow Super Giants,2022,"90,00,000 ",Indian ,,,,9000000,0.9,k_gowtham,allrounder,599,825,22,8.26,4.41,4.9
+Shahbaz Nadeem ,,Bowler , Lucknow Super Giants,2022,"50,00,000 ",Indian ,,,,5000000,0.5,s_nadeem,bowler,1444,1800,54,7.48,4.49,8.98
+Mohsin Khan ,,Bowler , Lucknow Super Giants,2022,"20,00,000 ",Indian ,,,,2000000,0.2,m_khan,bowler,12,16,0,8.0,0.0,0.0
+Mohsin Khan ,,Bowler , Lucknow Super Giants,2022,"20,00,000 ",Indian ,,,,2000000,0.2,m_khan,bowler,507,698,27,8.26,6.39,31.95
+Mayank Yadav ,,Bowler , Lucknow Super Giants,2022,"20,00,000 ",Indian ,,,,2000000,0.2,m_yadav,bowler,76,88,8,6.95,12.63,63.15
+Ayush Badoni ,,All-Rounder , Lucknow Super Giants,2022,"20,00,000 ",Indian ,,,,2000000,0.2,a_badoni,allrounder,25,37,2,8.88,9.6,48.0
+Kyle Mayers ,,All-Rounder , Lucknow Super Giants,2022,"50,00,000 ",Overseas ,,,,5000000,0.5,k_mayers,allrounder,46,59,0,7.7,0.0,0.0
+Karan Sharma ,,All-Rounder , Lucknow Super Giants,2022,"20,00,000 ",Indian ,,,,2000000,0.2,k_sharma,allrounder,1520,2130,82,8.41,6.47,32.35
+Jason Holder ,,All-Rounder , Lucknow Super Giants,2022,"8,75,00,000 ",Overseas ,,,,87500000,8.75,j_holder,allrounder,1049,1489,59,8.52,6.75,0.771429
+Deepak Hooda ,,All-Rounder , Lucknow Super Giants,2022,"5,75,00,000 ",Indian ,,,,57500000,5.75,d_hooda,allrounder,384,535,10,8.36,3.12,0.542609
+Basil Thampi ,,Bowler , Mumbai Indians,2022,"30,00,000 ",Indian ,,,,3000000,0.3,b_thampi,bowler,539,862,26,9.6,5.79,19.3
+Murugan Ashwin ,,Bowler , Mumbai Indians,2022,"1,60,00,000 ",Indian ,,,,16000000,1.6,m_ashwin,bowler,898,1182,35,7.9,4.68,2.925
+Jaydev Unadkat ,,Bowler , Mumbai Indians,2022,"1,30,00,000 ",Indian ,,,,13000000,1.3,j_unadkat,bowler,2194,3219,109,8.8,5.96,4.584615
+Mayank Markande ,,Bowler , Mumbai Indians,2022,"65,00,000 ",Indian ,,,,6500000,0.65,m_markande,bowler,737,1081,37,8.8,6.02,9.261538
+Sanjay Yadav ,,All-Rounder , Mumbai Indians,2022,"50,00,000 ",Indian ,,,,5000000,0.5,s_yadav,allrounder,6,8,0,8.0,0.0,0.0
+Jofra Archer ,,All-Rounder , Mumbai Indians,2022,"8,00,00,000 ",Overseas ,,,,80000000,8.0,j_archer,allrounder,987,1210,49,7.36,5.96,0.745
+Daniel Sams ,,All-Rounder , Mumbai Indians,2022,"2,60,00,000 ",Overseas ,,,,26000000,2.6,d_sams,allrounder,389,528,15,8.14,4.63,1.780769
+Tymal Mills ,,Bowler , Mumbai Indians,2022,"1,50,00,000 ",Overseas ,,,,15000000,1.5,t_mills,bowler,218,349,11,9.61,6.06,4.04
+Ramandeep  Singh ,,All-Rounder , Mumbai Indians,2022,"20,00,000 ",Indian ,,,,2000000,0.2,r_singh,allrounder,1874,2417,100,7.74,6.4,32.0
+Ramandeep  Singh ,,All-Rounder , Mumbai Indians,2022,"20,00,000 ",Indian ,,,,2000000,0.2,r_singh,allrounder,45,64,6,8.53,16.0,80.0
+Fabian Allen ,,All-Rounder , Mumbai Indians,2022,"75,00,000 ",Overseas ,,,,7500000,0.75,f_allen,allrounder,91,136,2,8.97,2.64,3.52
+Riley Meredith ,,Bowler , Mumbai Indians,2022,"1,00,00,000 ",Overseas ,,,,10000000,1.0,r_meredith,bowler,415,621,21,8.98,6.07,6.07
+Hrithik Shokeen ,,All-Rounder , Mumbai Indians,2022,"20,00,000 ",Indian ,,,,2000000,0.2,h_shokeen,allrounder,213,320,5,9.01,2.82,14.1
+Mohd. Arshad Khan ,,All-Rounder , Mumbai Indians,2022,"20,00,000 ",Indian ,,,,2000000,0.2,m_khan,allrounder,12,16,0,8.0,0.0,0.0
+Mohd. Arshad Khan ,,All-Rounder , Mumbai Indians,2022,"20,00,000 ",Indian ,,,,2000000,0.2,m_khan,allrounder,507,698,27,8.26,6.39,31.95
+Arjun  Tendulkar ,,All-Rounder , Mumbai Indians,2022,"30,00,000 ",Indian ,,,,3000000,0.3,a_tendulkar,allrounder,83,117,4,8.46,5.78,19.266667
+Kagiso Rabada ,,Bowler , Punjab Kings,2022,"9,25,00,000 ",Overseas ,,,,92500000,9.25,k_rabada,bowler,1907,2652,126,8.34,7.93,0.857297
+Rahul Chahar ,,Bowler , Punjab Kings,2022,"5,25,00,000 ",Indian ,,,,52500000,5.25,r_chahar,bowler,1697,2165,76,7.65,5.37,1.022857
+Harpreet  Brar ,,All-Rounder , Punjab Kings,2022,"3,80,00,000 ",Indian ,,,,38000000,3.8,h_brar,allrounder,692,907,25,7.86,4.34,1.142105
+Shahrukh Khan ,,All-Rounder , Punjab Kings,2022,"9,00,00,000 ",Indian ,,,,90000000,9.0,s_khan,allrounder,2,6,0,18.0,0.0,0.0
+Ishan Porel ,,Bowler , Punjab Kings,2022,"25,00,000 ",Indian ,,,,2500000,0.25,i_porel,bowler,26,42,1,9.69,4.62,18.48
+Liam Livingstone ,,All-Rounder , Punjab Kings,2022,"11,50,00,000 ",Overseas ,,,,115000000,11.5,l_livingstone,allrounder,267,395,11,8.88,4.94,0.429565
+Odean Smith ,,All-Rounder , Punjab Kings,2022,"6,00,00,000 ",Overseas ,,,,60000000,6.0,o_smith,allrounder,95,179,7,11.31,8.84,1.473333
+Sandeep Sharma ,,Bowler , Punjab Kings,2022,"50,00,000 ",Indian ,,,,5000000,0.5,s_sharma,bowler,2925,3758,153,7.71,6.28,12.56
+Sandeep Sharma ,,Bowler , Punjab Kings,2022,"50,00,000 ",Indian ,,,,5000000,0.5,s_sharma,bowler,114,165,4,8.68,4.21,8.42
+Sandeep Sharma ,,Bowler , Punjab Kings,2022,"50,00,000 ",Indian ,,,,5000000,0.5,s_sharma,bowler,264,381,11,8.66,5.0,10.0
+Rishi Dhawan ,,All-Rounder , Punjab Kings,2022,"55,00,000 ",Indian ,,,,5500000,0.55,r_dhawan,allrounder,693,922,27,7.98,4.68,8.509091
+Nathan Ellis ,,Bowler , Punjab Kings,2022,"75,00,000 ",Overseas ,,,,7500000,0.75,n_ellis,bowler,365,514,19,8.45,6.25,8.333333
+Atharva Taide ,,All-Rounder , Punjab Kings,2022,"20,00,000 ",Indian ,,,,2000000,0.2,a_taide,allrounder,1,4,0,24.0,0.0,0.0
+Vaibhav Arora ,,Bowler , Punjab Kings,2022,"2,00,00,000 ",Indian ,,,,20000000,2.0,v_arora,bowler,418,598,20,8.58,5.74,2.87
+Ansh Patel ,,All-Rounder , Punjab Kings,2022,"20,00,000 ",Indian ,,,,2000000,0.2,a_patel,allrounder,3152,3824,131,7.28,4.99,24.95
+R. Ashwin ,,All-Rounder , Rajasthan Royals,2022,"5,00,00,000 ",Indian ,,,,50000000,5.0,r_ashwin,allrounder,4679,5435,198,6.97,5.08,1.016
+Trent Boult ,,Bowler , Rajasthan Royals,2022,"8,00,00,000 ",Overseas ,,,,80000000,8.0,t_boult,bowler,2428,3286,128,8.12,6.33,0.79125
+Yuzvendra Chahal ,,Bowler , Rajasthan Royals,2022,"6,50,00,000 ",Indian ,,,,65000000,6.5,y_chahal,bowler,3628,4681,213,7.74,7.05,1.084615
+Riyan Parag ,,All-Rounder , Rajasthan Royals,2022,"3,80,00,000 ",Indian ,,,,38000000,3.8,r_parag,allrounder,181,307,5,10.18,3.31,0.871053
+K.C Cariappa ,,Bowler , Rajasthan Royals,2022,"30,00,000 ",Indian ,,,,3000000,0.3,k_cariappa,bowler,224,349,8,9.35,4.29,14.3
+James Neesham ,,All-Rounder , Rajasthan Royals,2022,"1,50,00,000 ",Overseas ,,,,15000000,1.5,j_neesham,allrounder,222,342,8,9.24,4.32,2.88
+Nathan Coulter-Nile ,,Bowler , Rajasthan Royals,2022,"2,00,00,000 ",Overseas ,,,,20000000,2.0,n_coulter-nile,bowler,892,1125,52,7.57,7.0,3.5
+Navdeep Saini ,,Bowler , Rajasthan Royals,2022,"2,60,00,000 ",Indian ,,,,26000000,2.6,n_saini,bowler,15,35,0,14.0,0.0,0.0
+Navdeep Saini ,,Bowler , Rajasthan Royals,2022,"2,60,00,000 ",Indian ,,,,26000000,2.6,n_saini,bowler,682,968,26,8.52,4.57,1.757692
+Kuldeep  Sen ,,Bowler , Rajasthan Royals,2022,"20,00,000 ",Indian ,,,,2000000,0.2,k_sen,bowler,255,396,14,9.32,6.59,32.95
+Daryl Mitchell ,,All-Rounder , Rajasthan Royals,2022,"75,00,000 ",Overseas ,,,,7500000,0.75,d_mitchell,allrounder,51,97,1,11.41,2.35,3.133333
+Obed Mccoy ,,Bowler , Rajasthan Royals,2022,"75,00,000 ",Overseas ,,,,7500000,0.75,o_mccoy,bowler,180,255,11,8.5,7.33,9.773333
+Tejas Baroka ,,Bowler , Rajasthan Royals,2022,"20,00,000 ",Indian ,,,,2000000,0.2,t_baroka,bowler,21,33,0,9.43,0.0,0.0
+Kuldip Yadav ,,Bowler , Rajasthan Royals,2022,"20,00,000 ",Indian ,,,,2000000,0.2,k_yadav,bowler,54,85,2,9.44,4.44,22.2
+Kuldip Yadav ,,Bowler , Rajasthan Royals,2022,"20,00,000 ",Indian ,,,,2000000,0.2,k_yadav,bowler,1786,2413,90,8.11,6.05,30.25
+Anunay Singh ,,All-Rounder , Rajasthan Royals,2022,"20,00,000 ",Indian ,,,,2000000,0.2,a_singh,allrounder,486,639,31,7.89,7.65,38.25
+Anunay Singh ,,All-Rounder , Rajasthan Royals,2022,"20,00,000 ",Indian ,,,,2000000,0.2,a_singh,allrounder,141,227,5,9.66,4.26,21.3
+Anunay Singh ,,All-Rounder , Rajasthan Royals,2022,"20,00,000 ",Indian ,,,,2000000,0.2,a_singh,allrounder,430,636,21,8.87,5.86,29.3
+Anunay Singh ,,All-Rounder , Rajasthan Royals,2022,"20,00,000 ",Indian ,,,,2000000,0.2,a_singh,allrounder,1453,2097,84,8.66,6.94,34.7
+Harshal Patel ,,All-Rounder , Royal Challengers Bangalore,2022,"10,75,00,000 ",Indian ,,,,107500000,10.75,h_patel,allrounder,2284,3215,151,8.45,7.93,0.737674
+Josh Hazlewood  ,,Bowler , Royal Challengers Bangalore,2022,"7,75,00,000 ",Overseas ,,,,77500000,7.75,j_hazlewood,bowler,622,830,36,8.01,6.95,0.896774
+Akash  Deep  ,,Bowler , Royal Challengers Bangalore,2022,"20,00,000 ",Indian ,,,,2000000,0.2,a_deep,bowler,175,324,8,11.11,5.49,27.45
+Karn Sharma ,,Bowler , Royal Challengers Bangalore,2022,"50,00,000 ",Indian ,,,,5000000,0.5,k_sharma,bowler,1520,2130,82,8.41,6.47,12.94
+Mahipal Lomror ,,All-Rounder , Royal Challengers Bangalore,2022,"95,00,000 ",Indian ,,,,9500000,0.95,m_lomror,allrounder,94,127,2,8.11,2.55,2.684211
+Sherfane Rutherford ,,All-Rounder , Royal Challengers Bangalore,2022,"1,00,00,000 ",Overseas ,,,,10000000,1.0,s_rutherford,allrounder,46,60,1,7.83,2.61,2.61
+Jason Behrendorff ,,Bowler , Royal Challengers Bangalore,2022,"75,00,000 ",Overseas ,,,,7500000,0.75,j_behrendorff,bowler,379,563,22,8.91,6.97,9.293333
+Siddharth  Kaul ,,Bowler , Royal Challengers Bangalore,2022,"75,00,000 ",Indian ,,,,7500000,0.75,s_kaul,bowler,1238,1772,63,8.59,6.11,8.146667
+David Willey  ,,All-Rounder , Royal Challengers Bangalore,2022,"2,00,00,000 ",Overseas ,,,,20000000,2.0,d_willey,allrounder,221,277,7,7.52,3.8,1.9
+Washington Sundar ,,All-Rounder , Sunrisers Hyderabad,2022,"8,75,00,000 ",Indian ,,,,87500000,8.75,w_sundar,allrounder,1064,1335,39,7.53,4.4,0.502857
+Bhuvneshwar Kumar ,,Bowler , Sunrisers Hyderabad,2022,"4,20,00,000 ",Indian ,,,,42000000,4.2,b_kumar,bowler,4060,5051,195,7.46,5.76,1.371429
+T. Natarajan ,,Bowler , Sunrisers Hyderabad,2022,"4,00,00,000 ",Indian ,,,,40000000,4.0,t_natarajan,bowler,1401,2001,76,8.57,6.51,1.6275
+Abhishek Sharma ,,All-Rounder , Sunrisers Hyderabad,2022,"6,50,00,000 ",Indian ,,,,65000000,6.5,a_sharma,allrounder,278,396,11,8.55,4.75,0.730769
+Abhishek Sharma ,,All-Rounder , Sunrisers Hyderabad,2022,"6,50,00,000 ",Indian ,,,,65000000,6.5,a_sharma,allrounder,375,453,12,7.25,3.84,0.590769
+Kartik Tyagi ,,Bowler , Sunrisers Hyderabad,2022,"4,00,00,000 ",Indian ,,,,40000000,4.0,k_tyagi,bowler,458,720,16,9.43,4.19,1.0475
+Shreyas Gopal ,,Bowler , Sunrisers Hyderabad,2022,"75,00,000 ",Indian ,,,,7500000,0.75,s_gopal,bowler,1000,1358,53,8.15,6.36,8.48
+Jagadeesha Suchith ,,Bowler , Sunrisers Hyderabad,2022,"20,00,000 ",Indian ,,,,2000000,0.2,j_suchith,bowler,434,604,20,8.35,5.53,27.65
+Marco Jansen ,,All-Rounder , Sunrisers Hyderabad,2022,"4,20,00,000 ",Overseas ,,,,42000000,4.2,m_jansen,allrounder,487,732,22,9.02,5.42,1.290476
+Romario Shepherd ,,All-Rounder , Sunrisers Hyderabad,2022,"7,75,00,000 ",Overseas ,,,,77500000,7.75,r_shepherd,allrounder,133,260,6,11.73,5.41,0.698065
+Fazalhaq Farooqi ,,Bowler , Sunrisers Hyderabad,2022,"50,00,000 ",Overseas ,,,,5000000,0.5,f_farooqi,bowler,162,229,6,8.48,4.44,8.88
+Sean Abbott ,,Bowler , Sunrisers Hyderabad,2022,"2,40,00,000 ",Overseas ,,,,24000000,2.4,s_abbott,bowler,59,104,1,10.58,2.03,0.845833
+Shashank Singh ,,All-Rounder , Sunrisers Hyderabad,2022,"20,00,000 ",Indian ,,,,2000000,0.2,s_singh,allrounder,19,25,1,7.89,6.32,31.6
+Shashank Singh ,,All-Rounder , Sunrisers Hyderabad,2022,"20,00,000 ",Indian ,,,,2000000,0.2,s_singh,allrounder,193,265,10,8.24,6.22,31.1
+Shashank Singh ,,All-Rounder , Sunrisers Hyderabad,2022,"20,00,000 ",Indian ,,,,2000000,0.2,s_singh,allrounder,165,241,7,8.76,5.09,25.45
+Kyle Jamieson ,,Bowler , Chennai Super Kings,2023,"1,00,00,000 ",Overseas ,,,,10000000,1.0,k_jamieson,bowler,179,271,9,9.08,6.03,6.03
+Ben Stokes ,,All-Rounder , Chennai Super Kings,2023,"16,25,00,000 ",Overseas ,,,,162500000,16.25,b_stokes,allrounder,723,1023,31,8.49,5.15,0.316923
+Ishant Sharma ,,Bowler , Delhi Capitals,2023,"50,00,000 ",Indian ,,,,5000000,0.5,i_sharma,bowler,2429,3255,96,8.04,4.74,9.48
+Mukesh Kumar ,,Bowler , Delhi Capitals,2023,"5,50,00,000 ",Indian ,,,,55000000,5.5,m_kumar,bowler,16,20,0,7.5,0.0,0.0
+Mukesh Kumar ,,Bowler , Delhi Capitals,2023,"5,50,00,000 ",Indian ,,,,55000000,5.5,m_kumar,bowler,420,707,31,10.1,8.86,1.610909
+Shivam Mavi ,,Bowler , Gujarat Titans,2023,"6,00,00,000 ",Indian ,,,,60000000,6.0,s_mavi,bowler,687,958,33,8.37,5.76,0.96
+Mohit Sharma ,,Bowler , Gujarat Titans,2023,"50,00,000 ",Indian ,,,,5000000,0.5,m_sharma,bowler,2308,3278,147,8.52,7.64,15.28
+Joshua Little ,,Bowler , Gujarat Titans,2023,"4,40,00,000 ",Overseas ,,,,44000000,4.4,j_little,bowler,236,341,13,8.67,6.61,1.502273
+Odean Smith ,,All-Rounder , Gujarat Titans,2023,"50,00,000 ",Overseas ,,,,5000000,0.5,o_smith,allrounder,95,179,7,11.31,8.84,17.68
+Kulwant Khejroliya ,,Bowler , Kolkata Knight Riders,2023,"20,00,000 ",Indian ,,,,2000000,0.2,k_khejroliya,bowler,129,221,5,10.28,4.65,23.25
+Shakib Al Hasan ,,All-Rounder , Kolkata Knight Riders,2023,"1,50,00,000 ",Overseas ,,,,15000000,1.5,s_hasan,allrounder,1515,1864,71,7.38,5.62,3.746667
+Vaibhav Arora ,,Bowler , Kolkata Knight Riders,2023,"60,00,000 ",Indian ,,,,6000000,0.6,v_arora,bowler,418,598,20,8.58,5.74,9.566667
+David Wiese ,,All-Rounder , Kolkata Knight Riders,2023,"1,00,00,000 ",Overseas ,,,,10000000,1.0,d_wiese,allrounder,307,447,17,8.74,6.64,6.64
+Suyash Sharma ,,Bowler , Kolkata Knight Riders,2023,"20,00,000 ",Indian ,,,,2000000,0.2,s_sharma,bowler,2925,3758,153,7.71,6.28,31.4
+Suyash Sharma ,,Bowler , Kolkata Knight Riders,2023,"20,00,000 ",Indian ,,,,2000000,0.2,s_sharma,bowler,114,165,4,8.68,4.21,21.05
+Suyash Sharma ,,Bowler , Kolkata Knight Riders,2023,"20,00,000 ",Indian ,,,,2000000,0.2,s_sharma,bowler,264,381,11,8.66,5.0,25.0
+Amit Mishra ,,Bowler , Lucknow Super Giants,2023,"50,00,000 ",Indian ,,,,5000000,0.5,a_mishra,bowler,3444,4193,183,7.3,6.38,12.76
+Romario Shepherd ,,All-Rounder , Lucknow Super Giants,2023,"50,00,000 ",Overseas ,,,,5000000,0.5,r_shepherd,allrounder,133,260,6,11.73,5.41,10.82
+Daniel Sams ,,All-Rounder , Lucknow Super Giants,2023,"75,00,000 ",Overseas ,,,,7500000,0.75,d_sams,allrounder,389,528,15,8.14,4.63,6.173333
+Swapnil Singh ,,All-Rounder , Lucknow Super Giants,2023,"20,00,000 ",Indian ,,,,2000000,0.2,s_singh,allrounder,19,25,1,7.89,6.32,31.6
+Swapnil Singh ,,All-Rounder , Lucknow Super Giants,2023,"20,00,000 ",Indian ,,,,2000000,0.2,s_singh,allrounder,193,265,10,8.24,6.22,31.1
+Swapnil Singh ,,All-Rounder , Lucknow Super Giants,2023,"20,00,000 ",Indian ,,,,2000000,0.2,s_singh,allrounder,165,241,7,8.76,5.09,25.45
+Yash Thakur ,,Bowler , Lucknow Super Giants,2023,"45,00,000 ",Indian ,,,,4500000,0.45,y_thakur,bowler,432,702,27,9.75,7.5,16.666667
+Jaydev Unadkat ,,Bowler , Lucknow Super Giants,2023,"50,00,000 ",Indian ,,,,5000000,0.5,j_unadkat,bowler,2194,3219,109,8.8,5.96,11.92
+Jhye Richardson ,,Bowler , Mumbai Indians,2023,"1,50,00,000 ",Overseas ,,,,15000000,1.5,j_richardson,bowler,94,162,3,10.34,3.83,2.553333
+Nehal Wadhera ,,All-Rounder , Mumbai Indians,2023,"20,00,000 ",Indian ,,,,2000000,0.2,n_wadhera,allrounder,12,13,0,6.5,0.0,0.0
+Raghav Goyal ,,Bowler , Mumbai Indians,2023,"20,00,000 ",Indian ,,,,2000000,0.2,r_goyal,bowler,24,34,0,8.5,0.0,0.0
+Cameron Green ,,All-Rounder , Mumbai Indians,2023,"17,50,00,000 ",Overseas ,,,,175000000,17.5,c_green,allrounder,462,675,20,8.77,5.19,0.296571
+Cameron Green ,,All-Rounder , Mumbai Indians,2023,"17,50,00,000 ",Overseas ,,,,175000000,17.5,c_green,allrounder,17,24,0,8.47,0.0,0.0
+Duan Jansen ,,All-Rounder , Mumbai Indians,2023,"20,00,000 ",Overseas ,,,,2000000,0.2,d_jansen,allrounder,28,53,1,11.36,4.29,21.45
+Piyush Chawla ,,Bowler , Mumbai Indians,2023,"50,00,000 ",Indian ,,,,5000000,0.5,p_chawla,bowler,3895,5179,201,7.98,6.19,12.38
+Shams Mulani ,,All-Rounder , Mumbai Indians,2023,"20,00,000 ",Indian ,,,,2000000,0.2,s_mulani,allrounder,33,57,0,10.36,0.0,0.0
+Shivam Singh ,,All-Rounder , Punjab Kings,2023,"20,00,000 ",Indian ,,,,2000000,0.2,s_singh,allrounder,19,25,1,7.89,6.32,31.6
+Shivam Singh ,,All-Rounder , Punjab Kings,2023,"20,00,000 ",Indian ,,,,2000000,0.2,s_singh,allrounder,193,265,10,8.24,6.22,31.1
+Shivam Singh ,,All-Rounder , Punjab Kings,2023,"20,00,000 ",Indian ,,,,2000000,0.2,s_singh,allrounder,165,241,7,8.76,5.09,25.45
+Vidwath Kaverappa ,,Bowler , Punjab Kings,2023,"20,00,000 ",Indian ,,,,2000000,0.2,v_kaverappa,bowler,24,36,2,9.0,10.0,50.0
+Mohit Rathee ,,All-Rounder , Punjab Kings,2023,"20,00,000 ",Indian ,,,,2000000,0.2,m_rathee,allrounder,12,29,0,14.5,0.0,0.0
+Sam Curran ,,All-Rounder , Punjab Kings,2023,"18,50,00,000 ",Overseas ,,,,185000000,18.5,s_curran,allrounder,1234,1924,62,9.35,6.03,0.325946
+Sikandar Raza ,,All-Rounder , Punjab Kings,2023,"50,00,000 ",Overseas ,,,,5000000,0.5,s_raza,allrounder,88,146,3,9.95,4.09,8.18
+Jason Holder ,,All-Rounder , Rajasthan Royals,2023,"5,75,00,000 ",Overseas ,,,,57500000,5.75,j_holder,allrounder,1049,1489,59,8.52,6.75,1.173913
+Adam Zampa ,,Bowler , Rajasthan Royals,2023,"1,50,00,000 ",Overseas ,,,,15000000,1.5,a_zampa,bowler,425,562,30,7.93,8.47,5.646667
+Murugan Ashwin ,,Bowler , Rajasthan Royals,2023,"20,00,000 ",Indian ,,,,2000000,0.2,m_ashwin,bowler,898,1182,35,7.9,4.68,23.4
+K.M. Asif ,,Bowler , Rajasthan Royals,2023,"30,00,000 ",Indian ,,,,3000000,0.3,k_asif,bowler,143,232,7,9.73,5.87,19.566667
+Sonu Yadav ,,All-Rounder , Royal Challengers Bangalore,2023,"20,00,000 ",Indian ,,,,2000000,0.2,s_yadav,allrounder,6,8,0,8.0,0.0,0.0
+Himanshu Sharma ,,Bowler , Royal Challengers Bangalore,2023,"20,00,000 ",Indian ,,,,2000000,0.2,h_sharma,bowler,30,62,0,12.4,0.0,0.0
+Avinash Singh ,,Bowler , Royal Challengers Bangalore,2023,"60,00,000 ",Indian ,,,,6000000,0.6,a_singh,bowler,486,639,31,7.89,7.65,12.75
+Avinash Singh ,,Bowler , Royal Challengers Bangalore,2023,"60,00,000 ",Indian ,,,,6000000,0.6,a_singh,bowler,141,227,5,9.66,4.26,7.1
+Avinash Singh ,,Bowler , Royal Challengers Bangalore,2023,"60,00,000 ",Indian ,,,,6000000,0.6,a_singh,bowler,430,636,21,8.87,5.86,9.766667
+Avinash Singh ,,Bowler , Royal Challengers Bangalore,2023,"60,00,000 ",Indian ,,,,6000000,0.6,a_singh,bowler,1453,2097,84,8.66,6.94,11.566667
+Reece Topley ,,Bowler , Royal Challengers Bangalore,2023,"1,90,00,000 ",Overseas ,,,,19000000,1.9,r_topley,bowler,107,182,5,10.21,5.61,2.952632
+Rajan Kumar ,,Bowler , Royal Challengers Bangalore,2023,"70,00,000 ",Indian ,,,,7000000,0.7,r_kumar,bowler,2186,3041,127,8.35,6.97,9.957143
+Sanvir Singh ,,All-Rounder , Sunrisers Hyderabad,2023,"20,00,000 ",Indian ,,,,2000000,0.2,s_singh,allrounder,19,25,1,7.89,6.32,31.6
+Sanvir Singh ,,All-Rounder , Sunrisers Hyderabad,2023,"20,00,000 ",Indian ,,,,2000000,0.2,s_singh,allrounder,193,265,10,8.24,6.22,31.1
+Sanvir Singh ,,All-Rounder , Sunrisers Hyderabad,2023,"20,00,000 ",Indian ,,,,2000000,0.2,s_singh,allrounder,165,241,7,8.76,5.09,25.45
+Akeal Hosein ,,Bowler , Sunrisers Hyderabad,2023,"1,00,00,000 ",Overseas ,,,,10000000,1.0,a_hosein,bowler,24,41,1,10.25,5.0,5.0
+Mayank Markande ,,Bowler , Sunrisers Hyderabad,2023,"50,00,000 ",Indian ,,,,5000000,0.5,m_markande,bowler,737,1081,37,8.8,6.02,12.04
+Adil Rashid ,,Bowler , Sunrisers Hyderabad,2023,"2,00,00,000 ",Overseas ,,,,20000000,2.0,a_rashid,bowler,60,91,2,9.1,4.0,2.0
+Vivrant Sharma ,,All-Rounder , Sunrisers Hyderabad,2023,"2,60,00,000 ",Indian ,,,,26000000,2.6,v_sharma,allrounder,21,37,0,10.57,0.0,0.0
+Mayank Dagar ,,All-Rounder , Sunrisers Hyderabad,2023,"1,80,00,000 ",Indian ,,,,18000000,1.8,m_dagar,allrounder,138,205,2,8.91,1.74,0.966667
+Mustafizur Rahman ,,Bowler , Chennai Super Kings,2024,"2,00,00,000 ",Overseas ,,,,20000000,2.0,m_rahman,bowler,452,598,20,7.94,5.31,2.655
+Mustafizur Rahman ,,Bowler , Chennai Super Kings,2024,"2,00,00,000 ",Overseas ,,,,20000000,2.0,m_rahman,bowler,1353,1792,70,7.95,6.21,3.105
+Daryl Mitchell ,,All-Rounder , Chennai Super Kings,2024,"14,00,00,000 ",Overseas ,,,,140000000,14.0,d_mitchell,allrounder,51,97,1,11.41,2.35,0.167857
+Rachin Ravindra ,,All-Rounder , Chennai Super Kings,2024,"1,80,00,000 ",Overseas ,,,,18000000,1.8,r_ravindra,allrounder,12,7,0,3.5,0.0,0.0
+Shardul Thakur ,,All-Rounder , Chennai Super Kings,2024,"4,00,00,000 ",Indian ,,,,40000000,4.0,s_thakur,allrounder,1979,2908,100,8.82,6.06,1.515
+Sumit Kumar ,,All-Rounder , Delhi Capitals,2024,"1,00,00,000 ",Indian ,,,,10000000,1.0,s_kumar,allrounder,22,38,0,10.36,0.0,0.0
+Jhye Richardson ,,Bowler , Delhi Capitals,2024,"5,00,00,000 ",Overseas ,,,,50000000,5.0,j_richardson,bowler,94,162,3,10.34,3.83,0.766
+Kartik Tyagi ,,Bowler , Gujarat Titans,2024,"60,00,000 ",Indian ,,,,6000000,0.6,k_tyagi,bowler,458,720,16,9.43,4.19,6.983333
+Spencer Johnson ,,Bowler , Gujarat Titans,2024,"10,00,00,000 ",Overseas ,,,,100000000,10.0,s_johnson,bowler,99,155,4,9.39,4.85,0.485
+Manav Suthar ,,Bowler , Gujarat Titans,2024,"20,00,000 ",Indian ,,,,2000000,0.2,m_suthar,bowler,12,26,0,13.0,0.0,0.0
+Azmatullah Omarzai ,,All-Rounder , Gujarat Titans,2024,"50,00,000 ",Overseas ,,,,5000000,0.5,a_omarzai,allrounder,131,194,4,8.89,3.66,7.32
+Shahrukh Khan ,,All-Rounder , Gujarat Titans,2024,"7,40,00,000 ",Indian ,,,,74000000,7.4,s_khan,allrounder,2,6,0,18.0,0.0,0.0
+Umesh Yadav ,,Bowler , Gujarat Titans,2024,"5,80,00,000 ",Indian ,,,,58000000,5.8,u_yadav,bowler,3190,4442,163,8.35,6.13,1.056897
+Mujeeb Rahman ,,Bowler , Kolkata Knight Riders,2024,"2,00,00,000 ",Overseas ,,,,20000000,2.0,m_rahman,bowler,452,598,20,7.94,5.31,2.655
+Mujeeb Rahman ,,Bowler , Kolkata Knight Riders,2024,"2,00,00,000 ",Overseas ,,,,20000000,2.0,m_rahman,bowler,1353,1792,70,7.95,6.21,3.105
+Mitchell  Starc ,,Bowler , Kolkata Knight Riders,2024,"24,75,00,000 ",Overseas ,,,,247500000,24.75,m_starc,bowler,879,1175,59,8.02,8.05,0.325253
+Ramandeep  Singh ,,All-Rounder , Kolkata Knight Riders,2024,"20,00,000 ",Indian ,,,,2000000,0.2,r_singh,allrounder,1874,2417,100,7.74,6.4,32.0
+Ramandeep  Singh ,,All-Rounder , Kolkata Knight Riders,2024,"20,00,000 ",Indian ,,,,2000000,0.2,r_singh,allrounder,45,64,6,8.53,16.0,80.0
+Chetan Sakariya ,,Bowler , Kolkata Knight Riders,2024,"50,00,000 ",Indian ,,,,5000000,0.5,c_sakariya,bowler,460,610,20,7.96,5.22,10.44
+David Willey  ,,All-Rounder , Lucknow Super Giants,2024,"2,00,00,000 ",Overseas ,,,,20000000,2.0,d_willey,allrounder,221,277,7,7.52,3.8,1.9
+M. Siddharth ,,Bowler , Lucknow Super Giants,2024,"2,40,00,000 ",Indian ,,,,24000000,2.4,m_siddharth,bowler,58,72,1,7.45,2.07,0.8625
+Shivam  Mavi ,,Bowler , Lucknow Super Giants,2024,"6,40,00,000 ",Indian ,,,,64000000,6.4,s_mavi,bowler,687,958,33,8.37,5.76,0.9
+Mohd. Arshad Khan ,,All-Rounder , Lucknow Super Giants,2024,"20,00,000 ",Indian ,,,,2000000,0.2,m_khan,allrounder,12,16,0,8.0,0.0,0.0
+Mohd. Arshad Khan ,,All-Rounder , Lucknow Super Giants,2024,"20,00,000 ",Indian ,,,,2000000,0.2,m_khan,allrounder,507,698,27,8.26,6.39,31.95
+Shreyas Gopal ,,Bowler , Mumbai Indians,2024,"20,00,000 ",Indian ,,,,2000000,0.2,s_gopal,bowler,1000,1358,53,8.15,6.36,31.8
+Shivalik Sharma ,,All-Rounder , Mumbai Indians,2024,"20,00,000 ",Indian ,,,,2000000,0.2,s_sharma,allrounder,2925,3758,153,7.71,6.28,31.4
+Shivalik Sharma ,,All-Rounder , Mumbai Indians,2024,"20,00,000 ",Indian ,,,,2000000,0.2,s_sharma,allrounder,114,165,4,8.68,4.21,21.05
+Shivalik Sharma ,,All-Rounder , Mumbai Indians,2024,"20,00,000 ",Indian ,,,,2000000,0.2,s_sharma,allrounder,264,381,11,8.66,5.0,25.0
+Anshul Kamboj ,,All-Rounder , Mumbai Indians,2024,"20,00,000 ",Indian ,,,,2000000,0.2,a_kamboj,allrounder,68,115,2,10.15,3.53,17.65
+Mohammad Nabi ,,All-Rounder , Mumbai Indians,2024,"1,50,00,000 ",Overseas ,,,,15000000,1.5,m_nabi,allrounder,419,527,15,7.55,4.3,2.866667
+Naman Dhir ,,All-Rounder , Mumbai Indians,2024,"20,00,000 ",Indian ,,,,2000000,0.2,n_dhir,allrounder,29,55,0,11.38,0.0,0.0
+Nuwan Thushara ,,Bowler , Mumbai Indians,2024,"4,80,00,000 ",Overseas ,,,,48000000,4.8,n_thushara,bowler,172,259,8,9.03,5.58,1.1625
+Gerald Coetzee ,,All-Rounder , Mumbai Indians,2024,"5,00,00,000 ",Overseas ,,,,50000000,5.0,g_coetzee,allrounder,216,357,13,9.92,7.22,1.444
+Chris Woakes  ,,All-Rounder , Punjab Kings,2024,"4,20,00,000 ",Overseas ,,,,42000000,4.2,c_woakes,allrounder,463,674,31,8.73,8.03,1.911905
+Vishwanath Pratap Singh ,,All-Rounder , Punjab Kings,2024,"20,00,000 ",Indian ,,,,2000000,0.2,v_singh,allrounder,211,300,12,8.53,6.82,34.1
+Vishwanath Pratap Singh ,,All-Rounder , Punjab Kings,2024,"20,00,000 ",Indian ,,,,2000000,0.2,v_singh,allrounder,371,549,16,8.88,5.18,25.9
+Ashutosh Sharma ,,All-Rounder , Punjab Kings,2024,"20,00,000 ",Indian ,,,,2000000,0.2,a_sharma,allrounder,278,396,11,8.55,4.75,23.75
+Ashutosh Sharma ,,All-Rounder , Punjab Kings,2024,"20,00,000 ",Indian ,,,,2000000,0.2,a_sharma,allrounder,375,453,12,7.25,3.84,19.2
+Harshal Patel ,,All-Rounder , Punjab Kings,2024,"11,75,00,000 ",Indian ,,,,117500000,11.75,h_patel,allrounder,2284,3215,151,8.45,7.93,0.674894
+Nandre Burger ,,Bowler , Rajasthan Royals,2024,"50,00,000 ",Overseas ,,,,5000000,0.5,n_burger,bowler,105,152,7,8.69,8.0,16.0
+Lockie Ferguson ,,Bowler , Royal Challengers Bengaluru,2024,"2,00,00,000 ",Overseas ,,,,20000000,2.0,l_ferguson,bowler,1002,1451,57,8.69,6.83,3.415
+Tom Curran ,,All-Rounder , Royal Challengers Bengaluru,2024,"1,50,00,000 ",Overseas ,,,,15000000,1.5,t_curran,allrounder,252,432,13,10.29,6.19,4.126667
+Alzarri Joseph ,,Bowler , Royal Challengers Bengaluru,2024,"11,50,00,000 ",Overseas ,,,,115000000,11.5,a_joseph,bowler,454,707,22,9.34,5.81,0.505217
+Swapnil Singh ,,All-Rounder , Royal Challengers Bengaluru,2024,"20,00,000 ",Indian ,,,,2000000,0.2,s_singh,allrounder,19,25,1,7.89,6.32,31.6
+Swapnil Singh ,,All-Rounder , Royal Challengers Bengaluru,2024,"20,00,000 ",Indian ,,,,2000000,0.2,s_singh,allrounder,193,265,10,8.24,6.22,31.1
+Swapnil Singh ,,All-Rounder , Royal Challengers Bengaluru,2024,"20,00,000 ",Indian ,,,,2000000,0.2,s_singh,allrounder,165,241,7,8.76,5.09,25.45
+Yash  Dayal ,,Bowler , Royal Challengers Bengaluru,2024,"5,00,00,000 ",Indian ,,,,50000000,5.0,y_dayal,bowler,615,933,31,9.1,6.05,1.21
+Akash Singh ,,Bowler , Sunrisers Hyderabad,2024,"20,00,000 ",Indian ,,,,2000000,0.2,a_singh,bowler,486,639,31,7.89,7.65,38.25
+Akash Singh ,,Bowler , Sunrisers Hyderabad,2024,"20,00,000 ",Indian ,,,,2000000,0.2,a_singh,bowler,141,227,5,9.66,4.26,21.3
+Akash Singh ,,Bowler , Sunrisers Hyderabad,2024,"20,00,000 ",Indian ,,,,2000000,0.2,a_singh,bowler,430,636,21,8.87,5.86,29.3
+Akash Singh ,,Bowler , Sunrisers Hyderabad,2024,"20,00,000 ",Indian ,,,,2000000,0.2,a_singh,bowler,1453,2097,84,8.66,6.94,34.7
+Jaydev Unadkat ,,Bowler , Sunrisers Hyderabad,2024,"1,60,00,000 ",Indian ,,,,16000000,1.6,j_unadkat,bowler,2194,3219,109,8.8,5.96,3.725
+Pat Cummins ,,All-Rounder , Sunrisers Hyderabad,2024,"20,50,00,000 ",Overseas ,,,,205000000,20.5,p_cummins,allrounder,1370,1976,66,8.65,5.78,0.281951
